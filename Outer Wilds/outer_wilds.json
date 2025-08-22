@@ -397,6 +397,6 @@
   "mode": "editing",
   "mapName": "Outer Wilds",
   "cdnBaseUrl": "https://avidrucker.github.io/img-test-1/Outer%20Wilds",
-  "orientation": 90,
+  "orientation": 0,
   "compassVisible": true
 }
