@@ -55,8 +55,8 @@
       "title": "Volcanic Testing Site",
       "size": "regular",
       "color": "orange",
-      "x": 1188,
-      "y": 723,
+      "x": 1252.467837756557,
+      "y": 716.3309133355285,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -125,8 +125,8 @@
       "title": "Statue Workshop",
       "size": "half",
       "color": "orange",
-      "x": 990,
-      "y": 302,
+      "x": 1060.8051108825052,
+      "y": 272.11894403123625,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -205,8 +205,8 @@
       "title": "Statue Island",
       "size": "regular",
       "color": "orange",
-      "x": 1033,
-      "y": 218,
+      "x": 1134.3357550245028,
+      "y": 169.93047518068437,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -235,8 +235,8 @@
       "title": "Alignment Angle Diagram",
       "size": "half",
       "color": "orange",
-      "x": 453,
-      "y": 808,
+      "x": 481.89937554604296,
+      "y": 810.223028888157,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     }
@@ -389,14 +389,131 @@
   ],
   "notes": {
     "OrbitalProbeCannon": [
-      "banana",
-      "cheese",
-      "potato"
+      "The broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area.",
+      "The Orbital Probe Cannon was created to find the precise location of the Eye of the universe.",
+      "The Nomai pushed the Orbital Probe Cannon above its maximum power setting to create the greatest chance of finding the Eye of the universe."
+    ],
+    "EyeSignalLocator": [
+      "A Nomai device created to pinpoint the sources of distant signals.",
+      "The Nomai were disappointed by their failure to detect a signal from something called the Eye of the universe."
+    ],
+    "SouthernObservatory": [
+      "The new, more sensitive locator the Nomai built in this observatory was unable to detect any trace of the Eye's signal.",
+      "Based on their knowledge of the Quantum Moon, the Nomai believed the Eye was in a distant orbit around the sun.",
+      "The Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe.",
+      "There were concerns that the probability of launching a probe in the correct direction would be absurdly small."
+    ],
+    "TornadoSimulation": [
+      "Most cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit.",
+      "There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current."
+    ],
+    "ConstructionYard": [
+      "This island is where the Nomai built the Orbital Probe Cannon.",
+      "For some reason, the Nomai put the Orbital Probe Cannon on indefinite hiatus. The cannon was not asked to fire.",
+      "According to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon."
+    ],
+    "ControlModule": [
+      "The Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.",
+      "The probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules."
+    ],
+    "LaunchModule": [
+      "The Launch Module is badly damaged, but its projection pool is still intact.",
+      "A Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.",
+      "A Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed."
+    ],
+    "ProbeTrackingModule": [
+      "The Orbital Probe Cannon has launched millions of probes.",
+      "The 9,318,054th probe located a deep space anomaly matching all known criteria for the Eye of the universe.",
+      "The statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.",
+      "I found Nomai coordinates marking the location of the Eye of the universe."
+    ],
+    "OceanDepths": [
+      "The ocean is surprisingly calm beneath the current. Some sort of electrical field surrounds the planet's core.",
+      "I passed through the electric barrier and reached the coral forest at the planet's core."
+    ],
+    "BrambleIsland": [
+      "An island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Dark Bramble."
+    ],
+    "FeldsparsCamp": [
+      "Feldspar is alive! They crashed their ship and is now camping inside a huge anglerfish skeleton.",
+      "Feldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.",
+      "Feldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet."
+    ],
+    "FrozenJellyfish": [
+      "Feldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity.",
+      "Feldspar decided to venture into the jellyfish’s interior cavity to see if it tasted any better on the inside.",
+      "After tasting the inside of the jellyfish, Feldspar concluded that these jellyfish are only useful for insulation from electricity."
+    ],
+    "ash_twin_project": [
+      "A hollowed-out chamber inside Ash Twin. The energy cables from the surface are plugged into a protective casing at the center of the planet.",
+      "There are eight monoliths with Nomai masks attached. Three of the masks are actively receiving data from the Probe Tracking Module, Giant's Deep, and Timber Hearth respectively.",
+      "The Ash Twin Project was designed to use the energy from a supernova (triggered by the Sun Station) to send probe data from the Orbital Probe Cannon 22 minutes into the past.",
+      "The Sun Station did not work. Although the Ash Twin Project was theoretically sound, the Nomai were unable to power it.",
+      "There is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project."
+    ],
+    "sun_station": [
+      "The Sun Station was designed to make the sun go supernova.",
+      "The Nomai fired the Sun Station but it had no effect on the sun. They concluded that the Sun Station could never cause the sun to go supernova.",
+      "After the failure of the Sun Station, the Nomai took a break to investigate the newly arrived comet.",
+      "According to a Nomai computer, our sun has reached the end of its natural life cycle."
+    ],
+    "white_hole_station": [
+      "Every Nomai warp tower is tuned to a specific astral body.",
+      "To use a tower, you must be standing on the warp platform during the tower's alignment with its corresponding astral body (the alignment happens when the astral body is directly overhead).",
+      "The Nomai noticed something strange: Warped objects appeared to arrive at the receiver on Brittle Hollow slightly before they departed the White Hole Station.",
+      "This negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree."
+    ],
+    "high_energy_lab": [
+      "The Nomai successfully reproduced the temporal anomaly first observed at the White Hole Station (warped objects appear to arrive before they depart).",
+      "The Nomai discovered they could increase the negative time interval between arrival and departure by adding energy to the warp cores.",
+      "The Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project."
+    ],
+    "ash_twin_tower_designs": [
+      "Designs for each of the towers on Ash Twin's equator.",
+      "Each tower warps to a different planet (although many Nomai were quick to note that the sun is not actually a planet).",
+      "Each tower was designed to visually reflect its warp destination.",
+      "The towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project."
+    ],
+    "ash_twin_towers": [
+      "Several large Nomai towers form a ring around Ash Twin's equator.",
+      "The White Hole Station was used as a model for these towers, which were built for the Ash Twin Project."
+    ],
+    "black_hole_forge": [
+      "A warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.",
+      "The warp receiver must be located on (or in close orbit around) the relevant astral body.",
+      "The Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them.",
+      "All of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.",
+      "A Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project."
+    ],
+    "alignment_angle_diagram": [
+      "A diagram depicting the alignment angle between a warp tower and its corresponding astral body.",
+      "Warp tower alignment angles are not exact. They only need to be within five degrees of the astral body's center.",
+      "This results in slightly longer warp windows that last roughly several seconds.",
+      "Anyone stepping onto the warp platform during the active window will be immediately warped."
+    ],
+    "statue_island": [
+      "This island must be where the Nomai created statues like the one in our observatory.",
+      "I found a Nomai statue lying on the beach. It looks just like the one in our observatory."
+    ],
+    "statue_workshop": [
+      "Nomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project.",
+      "Each storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.",
+      "The statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed."
+    ],
+    "nomai_mines": [
+      "The Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.",
+      "Once the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks.",
+      "The Nomai discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine."
+    ],
+    "volcanic_testing_site": [
+      "Ore samples from the Nomai Mines on Timber Hearth were sent to this volcano for durability testing.",
+      "The Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project.",
+      "Even the smallest crack or opening in the protective shell would destroy everything."
     ]
   },
   "mode": "editing",
   "mapName": "Outer Wilds",
   "cdnBaseUrl": "https://avidrucker.github.io/img-test-1/Outer%20Wilds",
   "orientation": 0,
-  "compassVisible": true
+  "compassVisible": false
 }
