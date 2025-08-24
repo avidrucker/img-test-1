@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "id": "Verbs",
+      "title": "Verbs",
+      "size": "regular",
+      "color": "green",
+      "x": 708.6923224782331,
+      "y": 260.8483759234885,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Ru_Verbs",
+      "title": "Ru Verbs",
+      "size": "regular",
+      "color": "green",
+      "x": 957.4758147474042,
+      "y": 71.22297832737871,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "UVerbs",
+      "title": "U-Verbs",
+      "size": "regular",
+      "color": "green",
+      "x": 992.9250659292702,
+      "y": 292.92840433738286,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "Japanese_Parts_of_Speech",
+      "title": "Japanese Parts of Speech",
+      "size": "regular",
+      "color": "gray",
+      "x": 450.2152580637535,
+      "y": 263.9961401432664,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "Irregular_Verbs",
+      "title": "Irregular Verbs",
+      "size": "regular",
+      "color": "green",
+      "x": 966.6467567219729,
+      "y": 501.02666382355596,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "Adjectives",
+      "title": "Adjectives",
+      "size": "regular",
+      "color": "orange",
+      "x": 204.37647920291272,
+      "y": 263.496240699819,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "IAdjectives",
+      "title": "I-Adjectives",
+      "size": "regular",
+      "color": "orange",
+      "x": -65.66863239926047,
+      "y": 160.6219124704196,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "NaAdjectives",
+      "title": "Na-Adjectives",
+      "size": "regular",
+      "color": "orange",
+      "x": -66.23093217567148,
+      "y": 393.6670240725928,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "Particles",
+      "title": "Particles",
+      "size": "regular",
+      "color": "blue",
+      "x": 444.91836761379403,
+      "y": 509.08216849509495,
+      "imageUrl": "unspecified"
+    }
+  ],
+  "edges": [
+    {
+      "id": "Verbs__Ru_Verbs",
+      "source": "Verbs",
+      "target": "Ru_Verbs",
+      "direction": "forward"
+    },
+    {
+      "id": "Verbs__UVerbs",
+      "source": "Verbs",
+      "target": "UVerbs",
+      "direction": "forward"
+    },
+    {
+      "id": "Japanese_Parts_of_Speech__Verbs",
+      "source": "Japanese_Parts_of_Speech",
+      "target": "Verbs",
+      "direction": "forward"
+    },
+    {
+      "id": "Verbs__Irregular_Verbs",
+      "source": "Verbs",
+      "target": "Irregular_Verbs",
+      "direction": "forward"
+    },
+    {
+      "id": "Adjectives__Japanese_Parts_of_Speech",
+      "source": "Adjectives",
+      "target": "Japanese_Parts_of_Speech",
+      "direction": "backward"
+    },
+    {
+      "id": "IAdjectives__Adjectives",
+      "source": "IAdjectives",
+      "target": "Adjectives",
+      "direction": "backward"
+    },
+    {
+      "id": "Adjectives__NaAdjectives",
+      "source": "Adjectives",
+      "target": "NaAdjectives",
+      "direction": "forward"
+    },
+    {
+      "id": "Japanese_Parts_of_Speech__Particles",
+      "source": "Japanese_Parts_of_Speech",
+      "target": "Particles",
+      "direction": "forward"
+    }
+  ],
+  "notes": {
+    "Irregular_Verbs": [
+      "する and 来る are the two irregular verbs in Japanese."
+    ]
+  },
+  "mode": "editing",
+  "mapName": "Japanese Parts of Speech",
+  "cdnBaseUrl": "",
+  "orientation": 0,
+  "compassVisible": false
+}
