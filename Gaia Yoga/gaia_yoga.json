@@ -76,7 +76,7 @@
       "size": "double",
       "color": "gray",
       "x": -136.16382870422456,
-      "y": -120.11063038463602,
+      "y": -120.11063038463601,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -86,7 +86,7 @@
       "size": "double",
       "color": "gray",
       "x": 527.4929487850491,
-      "y": 93.22789885514611,
+      "y": 93.22789885514612,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -115,8 +115,8 @@
       "title": "Upper Showers",
       "size": "regular",
       "color": "gray",
-      "x": 1059.092687392502,
-      "y": -431.3459477153209,
+      "x": 1260.9670396464826,
+      "y": -484.61834622678793,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -225,8 +225,8 @@
       "title": "The Pool",
       "size": "half",
       "color": "gray",
-      "x": 774.7044774058859,
-      "y": -39.909419116235625,
+      "x": 775.1466369067726,
+      "y": -18.308043196205986,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -235,8 +235,8 @@
       "title": "The Hot Tub",
       "size": "half",
       "color": "gray",
-      "x": 778.2054449771437,
-      "y": 57.235563336682276,
+      "x": 775.2352931813592,
+      "y": 141.88488951653957,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -255,8 +255,8 @@
       "title": "The Trampoline",
       "size": "half",
       "color": "gray",
-      "x": 773.3560940866362,
-      "y": -144.84561971866285,
+      "x": 777.3938794045497,
+      "y": -165.53505561904953,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -515,8 +515,8 @@
       "title": "Upper Pumphouse",
       "size": "regular",
       "color": "red",
-      "x": 690.535683729067,
-      "y": -1506.8074342899213,
+      "x": 725.9434100692849,
+      "y": -1638.321846410731,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -911,6 +911,12 @@
       "source": "Laa_Pueo",
       "target": "Kanas_Teak_House",
       "direction": "forward"
+    },
+    {
+      "id": "The_Fire_Pit__The_Peanut_Lawn",
+      "source": "The_Fire_Pit",
+      "target": "The_Peanut_Lawn",
+      "direction": "backward"
     }
   ],
   "notes": {
@@ -939,7 +945,7 @@
       "This is where Joshua lives (as of August 2025)."
     ],
     "The_Peanut_Lawn": [
-      "This lawn has a plant called \"Creeping Peanut\", but it typically does not produce seeds, but it does has a pretty yellow flower."
+      "This lawn has a plant called \"Creeping Peanut\". This plant typically doesn't produce seeds, but it does has a pretty yellow flower."
     ],
     "El_Nido": [
       "This is Braja's hut.",
@@ -992,9 +998,6 @@
     "Stefanos_Lab": [
       "There is a working sink with running water here."
     ],
-    "Upper_Showers": [
-      "The hot water can come on suddenly and turn off suddenly - watch out for that."
-    ],
     "Manta_Ray": [
       "This is the current motor bike garage as of August 2025."
     ],
@@ -1006,6 +1009,17 @@
     ],
     "Daisy": [
       "Daisy is a good girl. She loves mangoes, papayas, and bananas."
+    ],
+    "Upper_Showers": [
+      "The hot water can come on suddenly and turn off suddenly - watch out for that.",
+      "There are two showers here so two people can comfortably shower at the same time."
+    ],
+    "The_Bedouin": [
+      "This hut is typically designed for male guests.",
+      "This hut has running water, electricity, and Ethernet."
+    ],
+    "The_Kasbah": [
+      "Typically a meeting space, this hut has recently stopped being the meeting space in favor of meetings at Tutu's (as of August 2025)."
     ]
   },
   "mode": "editing",
