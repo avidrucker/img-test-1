@@ -1,16 +1,6 @@
 {
   "nodes": [
     {
-      "id": "untitled1",
-      "title": "untitled1",
-      "size": "double",
-      "color": "red",
-      "x": -1510.291358243582,
-      "y": -4136.351396642388,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
-    },
-    {
       "id": "Lava_Access_Point_One",
       "title": "Lava Access Point One",
       "size": "double",
@@ -34,21 +24,21 @@
       "id": "Truck_Garage",
       "title": "Truck Garage",
       "size": "half",
-      "color": "red",
+      "color": "gray",
       "x": -991.5087241768924,
       "y": 208.9912971901324,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "Truck_Garage_89c3f47c426c.jpeg",
+      "originalImageUrl": "Truck_Garage_89c3f47c426c.jpeg"
     },
     {
-      "id": "Powersharing",
-      "title": "Powersharing",
+      "id": "Powersharing__Laundry_Room",
+      "title": "Powersharing / Laundry Room",
       "size": "double",
-      "color": "red",
+      "color": "gray",
       "x": -821.3729530757994,
       "y": -714.1176772019351,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "Powersharing__Laundry_Room_2c10a4879097.jpeg",
+      "originalImageUrl": "Powersharing__Laundry_Room_2c10a4879097.jpeg"
     },
     {
       "id": "The_Kuti",
@@ -74,11 +64,11 @@
       "id": "Manta_Ray",
       "title": "Manta Ray",
       "size": "half",
-      "color": "red",
+      "color": "gray",
       "x": -1138.6114013583358,
       "y": 293.6626816182003,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "Manta_Ray_ac87eb509421.jpeg",
+      "originalImageUrl": "Manta_Ray_ac87eb509421.jpeg"
     },
     {
       "id": "The_Landing",
@@ -87,8 +77,8 @@
       "color": "gray",
       "x": -397.8534730715637,
       "y": -185.14651871790812,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "The_Landing_90d4b2db21d3.jpeg",
+      "originalImageUrl": "The_Landing_90d4b2db21d3.jpeg"
     },
     {
       "id": "The_Peanut_Lawn",
@@ -97,8 +87,8 @@
       "color": "gray",
       "x": -42.92055344236729,
       "y": -865.1411104828835,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "The_Peanut_Lawn_cdbac315efc5.jpeg",
+      "originalImageUrl": "The_Peanut_Lawn_cdbac315efc5.jpeg"
     },
     {
       "id": "Tutus",
@@ -111,24 +101,14 @@
       "originalImageUrl": "Tutus_3b9f6a0e55df.jpeg"
     },
     {
-      "id": "Laundry_Room",
-      "title": "Laundry Room",
+      "id": "Auau_Heiau",
+      "title": "Au'au Hei'au",
       "size": "regular",
       "color": "gray",
-      "x": -742.2839455550248,
-      "y": -498.6489669513162,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
-    },
-    {
-      "id": "Upper_Showers",
-      "title": "Upper Showers",
-      "size": "regular",
-      "color": "gray",
-      "x": -761.4525745746876,
-      "y": -931.7587680976287,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "x": -597.9595973255523,
+      "y": -882.040843867138,
+      "imageUrl": "Auau_Heiau_72b72110350d.jpeg",
+      "originalImageUrl": "Auau_Heiau_72b72110350d.jpeg"
     },
     {
       "id": "The_Workshop__Carport",
@@ -137,18 +117,18 @@
       "color": "gray",
       "x": -1282.5247522686195,
       "y": -76.90504680133483,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "The_Workshop__Carport_1ebb3e63bfca.jpeg",
+      "originalImageUrl": "The_Workshop__Carport_1ebb3e63bfca.jpeg"
     },
     {
       "id": "untitled7",
       "title": "Drying Lines",
       "size": "regular",
       "color": "gray",
-      "x": -1103.3344275828917,
-      "y": -706.5943304079168,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "x": -890.205216364626,
+      "y": -1004.3706042376921,
+      "imageUrl": "untitled7_584f9c4d9823.jpeg",
+      "originalImageUrl": "untitled7_584f9c4d9823.jpeg"
     },
     {
       "id": "Upper_Coco_Bar",
@@ -157,8 +137,8 @@
       "color": "gray",
       "x": -1545.3541090919916,
       "y": 97.52734078493478,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "Upper_Coco_Bar_6d9270c04e37.jpeg",
+      "originalImageUrl": "Upper_Coco_Bar_6d9270c04e37.jpeg"
     },
     {
       "id": "The_Bedouin",
@@ -167,8 +147,8 @@
       "color": "gray",
       "x": 372.28080545458045,
       "y": -320.93111467614096,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "The_Bedouin_2fedec1ce950.jpeg",
+      "originalImageUrl": "The_Bedouin_2fedec1ce950.jpeg"
     },
     {
       "id": "Zappa_Crappa",
@@ -177,8 +157,8 @@
       "color": "gray",
       "x": 122.66723461892053,
       "y": 64.41906536178581,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "Zappa_Crappa_92c29c75ad59.jpeg",
+      "originalImageUrl": "Zappa_Crappa_92c29c75ad59.jpeg"
     },
     {
       "id": "Chateau_Bali",
@@ -187,12 +167,12 @@
       "color": "gray",
       "x": 159.90730103594012,
       "y": -1296.5420390321865,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "Chateau_Bali_80190d7a2d10.jpeg",
+      "originalImageUrl": "Chateau_Bali_80190d7a2d10.jpeg"
     },
     {
-      "id": "Stefanos_Lab",
-      "title": "Stefano's Lab",
+      "id": "Stefanos_Lab_formerly",
+      "title": "Stefano's Lab (formerly)",
       "size": "double",
       "color": "gray",
       "x": -1363.685507159344,
@@ -221,8 +201,8 @@
       "originalImageUrl": "unspecified"
     },
     {
-      "id": "Hale_Hapai",
-      "title": "Hale Hapai",
+      "id": "Halai_Hapai",
+      "title": "Halai Hapai",
       "size": "double",
       "color": "gray",
       "x": -522.1984722974667,
@@ -237,8 +217,8 @@
       "color": "gray",
       "x": 208.35338460943046,
       "y": -866.5240902275056,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "The_Pool_3947283d387d.jpeg",
+      "originalImageUrl": "The_Pool_3947283d387d.jpeg"
     },
     {
       "id": "The_Hot_Tub",
@@ -247,28 +227,28 @@
       "color": "gray",
       "x": -243.98486345734898,
       "y": -1067.2092253086328,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "The_Hot_Tub_985e52993ad4.jpeg",
+      "originalImageUrl": "The_Hot_Tub_985e52993ad4.jpeg"
     },
     {
       "id": "The_Fire_Pit",
       "title": "The Fire Pit",
       "size": "half",
       "color": "gray",
-      "x": 206.29337198491618,
-      "y": -980.0991653037281,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "x": 203.86981151256444,
+      "y": -1000.6994293187186,
+      "imageUrl": "The_Fire_Pit_71bd83597ee5.jpeg",
+      "originalImageUrl": "The_Fire_Pit_71bd83597ee5.jpeg"
     },
     {
       "id": "The_Trampoline",
       "title": "The Trampoline",
       "size": "half",
       "color": "gray",
-      "x": 210.19348029053015,
-      "y": -756.585983892287,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "x": 204.13457910965053,
+      "y": -727.5032582240652,
+      "imageUrl": "The_Trampoline_cdd38a93a919.jpeg",
+      "originalImageUrl": "The_Trampoline_cdd38a93a919.jpeg"
     },
     {
       "id": "Woodstock_Parking_Lot",
@@ -287,8 +267,8 @@
       "color": "gray",
       "x": 577.7226042366003,
       "y": -863.9063267726574,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "The_Kasbah_c6c912a1928b.jpeg",
+      "originalImageUrl": "The_Kasbah_c6c912a1928b.jpeg"
     },
     {
       "id": "El_Nido",
@@ -307,14 +287,14 @@
       "color": "gray",
       "x": 736.2983085717646,
       "y": -1148.45474721405,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "Brajas_Toilet_cea019a8b470.jpeg",
+      "originalImageUrl": "Brajas_Toilet_cea019a8b470.jpeg"
     },
     {
       "id": "Coco_Bed",
       "title": "Coco Bed",
       "size": "regular",
-      "color": "gray",
+      "color": "red",
       "x": 445.50990852548284,
       "y": -2716.4528266847815,
       "imageUrl": "unspecified",
@@ -445,8 +425,8 @@
       "title": "La'a Pue'o",
       "size": "double",
       "color": "red",
-      "x": -2341.766226155232,
-      "y": -1881.988809665514,
+      "x": -2271.6204723812516,
+      "y": -1893.1596441083157,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -495,8 +475,8 @@
       "title": "Thimbleberry",
       "size": "double",
       "color": "red",
-      "x": -2492.9979734412195,
-      "y": -4647.439604761091,
+      "x": -2398.2763838930764,
+      "y": -4810.571231205116,
       "imageUrl": "Thimbleberry_863cb250bfdd.jpeg",
       "originalImageUrl": "Thimbleberry_863cb250bfdd.jpeg"
     },
@@ -524,27 +504,27 @@
       "id": "Upper_Pumphouse",
       "title": "Upper Pumphouse",
       "size": "regular",
-      "color": "red",
+      "color": "gray",
       "x": -1694.2133417143848,
       "y": -735.806615122871,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
     {
-      "id": "Bamboo_Forest",
-      "title": "Bamboo Forest",
+      "id": "Old_Bamboo_Nursery",
+      "title": "Old Bamboo Nursery",
       "size": "double",
-      "color": "red",
+      "color": "gray",
       "x": -1686.326291066303,
       "y": -1132.656314101312,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
     {
-      "id": "Daisys_Pasture",
-      "title": "Daisy's Pasture",
+      "id": "The_Pasture",
+      "title": "The Pasture",
       "size": "double",
-      "color": "gray",
+      "color": "red",
       "x": -558.6415502160186,
       "y": -3768.377219292762,
       "imageUrl": "Daisys_Pasture_6eadd1496caf.jpeg",
@@ -555,10 +535,40 @@
       "title": "Daisy",
       "size": "half",
       "color": "gray",
-      "x": -398.5166654393097,
-      "y": -3957.6541505878445,
+      "x": -352.8048484838659,
+      "y": -3965.401916173513,
       "imageUrl": "Daisy_574061b873ff.jpeg",
       "originalImageUrl": "Daisy_574061b873ff.jpeg"
+    },
+    {
+      "id": "untitled1",
+      "title": "untitled1",
+      "size": "half",
+      "color": "red",
+      "x": -1397.309342658817,
+      "y": -4110.746556688773,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Water_Tanks_Site_A",
+      "title": "Water Tanks Site A",
+      "size": "regular",
+      "color": "gray",
+      "x": -1838.47242389271,
+      "y": -669.3194409673671,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Lower_Water_Tank_B",
+      "title": "Lower Water Tank B",
+      "size": "regular",
+      "color": "red",
+      "x": -1495.7372501976065,
+      "y": -3614.411998544409,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
     }
   ],
   "edges": [
@@ -605,14 +615,14 @@
       "direction": "forward"
     },
     {
-      "id": "The_Peanut_Lawn__Hale_Hapai",
+      "id": "The_Peanut_Lawn__Halai_Hapai",
       "source": "The_Peanut_Lawn",
-      "target": "Hale_Hapai",
+      "target": "Halai_Hapai",
       "direction": "backward"
     },
     {
-      "id": "Hale_Hapai__Tutus",
-      "source": "Hale_Hapai",
+      "id": "Halai_Hapai__Tutus",
+      "source": "Halai_Hapai",
       "target": "Tutus",
       "direction": "forward"
     },
@@ -647,9 +657,9 @@
       "direction": "forward"
     },
     {
-      "id": "The_Workshop__Carport__Stefanos_Lab",
+      "id": "The_Workshop__Carport__Stefanos_Lab_formerly",
       "source": "The_Workshop__Carport",
-      "target": "Stefanos_Lab",
+      "target": "Stefanos_Lab_formerly",
       "direction": "forward"
     },
     {
@@ -791,20 +801,20 @@
       "direction": "forward"
     },
     {
-      "id": "The_Peanut_Lawn__Powersharing",
+      "id": "The_Peanut_Lawn__Powersharing__Laundry_Room",
       "source": "The_Peanut_Lawn",
-      "target": "Powersharing",
-      "direction": "bidirectional"
-    },
-    {
-      "id": "Powersharing__Stefanos_Lab",
-      "source": "Powersharing",
-      "target": "Stefanos_Lab",
+      "target": "Powersharing__Laundry_Room",
       "direction": "forward"
     },
     {
-      "id": "Powersharing__The_Workshop__Carport",
-      "source": "Powersharing",
+      "id": "Powersharing__Laundry_Room__Stefanos_Lab_formerly",
+      "source": "Powersharing__Laundry_Room",
+      "target": "Stefanos_Lab_formerly",
+      "direction": "forward"
+    },
+    {
+      "id": "Powersharing__Laundry_Room__The_Workshop__Carport",
+      "source": "Powersharing__Laundry_Room",
       "target": "The_Workshop__Carport",
       "direction": "forward"
     },
@@ -815,21 +825,15 @@
       "direction": "forward"
     },
     {
-      "id": "Laundry_Room__Powersharing",
-      "source": "Laundry_Room",
-      "target": "Powersharing",
-      "direction": "forward"
-    },
-    {
-      "id": "untitled7__Powersharing",
+      "id": "untitled7__Powersharing__Laundry_Room",
       "source": "untitled7",
-      "target": "Powersharing",
+      "target": "Powersharing__Laundry_Room",
       "direction": "forward"
     },
     {
-      "id": "Upper_Showers__Powersharing",
-      "source": "Upper_Showers",
-      "target": "Powersharing",
+      "id": "Auau_Heiau__Powersharing__Laundry_Room",
+      "source": "Auau_Heiau",
+      "target": "Powersharing__Laundry_Room",
       "direction": "forward"
     },
     {
@@ -863,26 +867,26 @@
       "direction": "forward"
     },
     {
-      "id": "Stefanos_Lab__Bamboo_Forest",
-      "source": "Stefanos_Lab",
-      "target": "Bamboo_Forest",
+      "id": "Stefanos_Lab_formerly__Old_Bamboo_Nursery",
+      "source": "Stefanos_Lab_formerly",
+      "target": "Old_Bamboo_Nursery",
       "direction": "forward"
     },
     {
-      "id": "Bamboo_Forest__The_Mana_Hut",
-      "source": "Bamboo_Forest",
+      "id": "Old_Bamboo_Nursery__The_Mana_Hut",
+      "source": "Old_Bamboo_Nursery",
       "target": "The_Mana_Hut",
       "direction": "forward"
     },
     {
-      "id": "Bamboo_Forest__The_Ka",
-      "source": "Bamboo_Forest",
+      "id": "Old_Bamboo_Nursery__The_Ka",
+      "source": "Old_Bamboo_Nursery",
       "target": "The_Ka",
       "direction": "forward"
     },
     {
-      "id": "Daisys_Pasture__Moe_Uhane",
-      "source": "Daisys_Pasture",
+      "id": "The_Pasture__Moe_Uhane",
+      "source": "The_Pasture",
       "target": "Moe_Uhane",
       "direction": "forward"
     },
@@ -957,6 +961,24 @@
       "source": "Tutus",
       "target": "Tutus_Garden",
       "direction": "forward"
+    },
+    {
+      "id": "Stefanos_Lab_formerly__Upper_Pumphouse",
+      "source": "Stefanos_Lab_formerly",
+      "target": "Upper_Pumphouse",
+      "direction": "forward"
+    },
+    {
+      "id": "Old_Bamboo_Nursery__Upper_Pumphouse",
+      "source": "Old_Bamboo_Nursery",
+      "target": "Upper_Pumphouse",
+      "direction": "forward"
+    },
+    {
+      "id": "Upper_Pumphouse__Water_Tanks_Site_A",
+      "source": "Upper_Pumphouse",
+      "target": "Water_Tanks_Site_A",
+      "direction": "forward"
     }
   ],
   "notes": {
@@ -1006,8 +1028,7 @@
       "This garden is in need of further, on-going care to maintain and improve."
     ],
     "Laa_Pueo": [
-      "This is Flow's hut (as of August 2025).",
-      "Question: Does Flow's place have any direct paths to any other places besides the Mana Hut?"
+      "This is Flow's hut (as of August 2025)."
     ],
     "The_Kuti": [
       "This is Melekai's place."
@@ -1022,22 +1043,12 @@
     "Fuchsia_Phoenix": [
       "Soozi lives here (as of August 2025)."
     ],
-    "Powersharing": [
-      "Powersharing's roof is covered in solar panels. These panels power the entirety of Gaia Yoga.",
-      "Question: Is Powersharing the name that applies to the entire structure including the showers, the laundry room, and the drying lines, or, is Powersharing only the name for the part of the laundry room that has the power equipment, or is it something else entirely?"
-    ],
-    "Hale_Hapai": [
-      "This is where Chelsea lives (as of August 2025)."
-    ],
     "The_Hot_Tub": [
       "The hot tub was recently cleaned, and is now operational as of August 2025.",
       "The hot tub is solar heated with solar heating panels."
     ],
     "Laundry_Room": [
       "Don't use the laundry machine if the battery reads 20% or lower."
-    ],
-    "Stefanos_Lab": [
-      "There is a working sink with running water here."
     ],
     "Manta_Ray": [
       "This is the current motor bike garage as of August 2025."
@@ -1051,21 +1062,53 @@
     "Daisy": [
       "Daisy is a good girl. She loves mangoes, papayas, and bananas."
     ],
-    "Upper_Showers": [
-      "The hot water can come on suddenly and turn off suddenly - watch out for that.",
-      "There are two showers here so two people can comfortably shower at the same time."
-    ],
     "The_Bedouin": [
       "This hut is typically designed for male guests.",
       "This hut has running water, electricity, and Ethernet."
     ],
     "The_Kasbah": [
       "Typically a meeting space, this hut has recently stopped being the meeting space in favor of meetings at Tutu's (as of August 2025)."
+    ],
+    "Auau_Heiau": [
+      "The hot water can come on suddenly and turn off suddenly - watch out for that.",
+      "There are two showers here so two people can comfortably shower at the same time."
+    ],
+    "Stefanos_Lab_formerly": [
+      "There is a working sink with running water here (as of August 2025).",
+      "Stefano's Lab was also called \"The Apothecary\".",
+      "TODO: Check in on the lab, to see if the sink is still there."
+    ],
+    "The_Mana_Hut": [
+      "The Mana Hut is typically the hut where female guests stay."
+    ],
+    "Halai_Hapai": [
+      "This is where Chelsea lives (as of August 2025)."
+    ],
+    "Lower_Water_Tank_B": [
+      "This tank is currently non-operational (as of August 2025)."
+    ],
+    "Old_Bamboo_Nursery": [
+      "This is a bamboo grove that used to be a bamboo nursery."
+    ],
+    "Powersharing__Laundry_Room": [
+      "Powersharing's roof is covered in solar panels. These panels power the entirety of Gaia Yoga.",
+      "Don't use the laundry machine if the battery reads 20% or lower.",
+      "The battery percent readout display is currently broken (as of August 26th, 2025)."
+    ],
+    "Water_Tanks_Site_A": [
+      "There are three water tanks next to the upper pumphouse.",
+      "These are currently the water tanks being used for all of Gaia Yoga's water (as of August 2025)."
     ]
   },
   "mode": "editing",
   "mapName": "Gaia Yoga",
   "cdnBaseUrl": "https://avidrucker.github.io/img-test-1/Gaia%20Yoga",
   "orientation": 0,
-  "compassVisible": true
+  "compassVisible": true,
+  "bgImage": {
+    "x": -4650,
+    "y": -5200,
+    "scale": 700,
+    "opacity": 33
+  }
 }
