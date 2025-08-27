@@ -1106,9 +1106,12 @@
   "orientation": 0,
   "compassVisible": true,
   "bgImage": {
+    "included": true,
+    "imageUrl": "underlay.png",
     "x": -4650,
     "y": -5200,
     "scale": 700,
-    "opacity": 33
+    "opacity": 33,
+    "visible": true
   }
 }
