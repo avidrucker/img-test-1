@@ -1,0 +1,196 @@
+{
+  "nodes": [
+    {
+      "id": "Temple_of_the_Ancients",
+      "title": "Temple of the Ancients",
+      "size": "regular",
+      "color": "gray",
+      "x": 3975.0166614128557,
+      "y": 4220.716948322153,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "The_Forgotten_City",
+      "title": "The Forgotten City",
+      "size": "regular",
+      "color": "gray",
+      "x": 3707.9639231897536,
+      "y": 1685.8397539388516,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Bone_Village",
+      "title": "Bone Village",
+      "size": "regular",
+      "color": "gray",
+      "x": 3507.856422191428,
+      "y": 1893.728889587749,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Midgar",
+      "title": "Midgar",
+      "size": "regular",
+      "color": "gray",
+      "x": 4353.394604583974,
+      "y": 2605.4889787330676,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Chocobo_Farm",
+      "title": "Chocobo Farm",
+      "size": "regular",
+      "color": "gray",
+      "x": 5792.975934717416,
+      "y": 3032.394516204175,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "Mideel",
+      "title": "Mideel",
+      "size": "regular",
+      "color": "gray",
+      "x": 5266.924994176445,
+      "y": 4664.262995574099,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "Kalm",
+      "title": "Kalm",
+      "size": "regular",
+      "color": "gray",
+      "x": 4720.25119692883,
+      "y": 2361.2444194762215,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Icicle_Inn",
+      "title": "Icicle Inn",
+      "size": "regular",
+      "color": "gray",
+      "x": 2807.705305220341,
+      "y": 1367.5630423296516,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Junon",
+      "title": "Junon",
+      "size": "regular",
+      "color": "gray",
+      "x": 3932.597616090331,
+      "y": 3288.772639001138,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Costa_del_Sol",
+      "title": "Costa del Sol",
+      "size": "regular",
+      "color": "gray",
+      "x": 3193.7133692153866,
+      "y": 2686.836955163054,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Corel",
+      "title": "Corel",
+      "size": "regular",
+      "color": "gray",
+      "x": 2327.7873456226603,
+      "y": 2783.008922644779,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "The_Gold_Saucer",
+      "title": "The Gold Saucer",
+      "size": "regular",
+      "color": "gray",
+      "x": 2632.656316193457,
+      "y": 3456.414832579424,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Gongaga",
+      "title": "Gongaga",
+      "size": "regular",
+      "color": "gray",
+      "x": 2435.0499552763713,
+      "y": 4195.2816017117675,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Cosmo_Canyon",
+      "title": "Cosmo Canyon",
+      "size": "regular",
+      "color": "gray",
+      "x": 1772.8915281415568,
+      "y": 3864.06190379944,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Nibelheim",
+      "title": "Nibelheim",
+      "size": "regular",
+      "color": "gray",
+      "x": 1891.1046302343384,
+      "y": 3042.9664052959047,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Rocket_Town",
+      "title": "Rocket Town",
+      "size": "regular",
+      "color": "gray",
+      "x": 1639.2919852910434,
+      "y": 2636.9034224659813,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Fort_Condor",
+      "title": "Fort Condor",
+      "size": "regular",
+      "color": "gray",
+      "x": 4861.122546981929,
+      "y": 3883.897031476581,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "Wutai",
+      "title": "Wutai",
+      "size": "regular",
+      "color": "gray",
+      "x": 391.72916390528655,
+      "y": 1797.0000000000002,
+      "imageUrl": "unspecified"
+    }
+  ],
+  "edges": [],
+  "notes": {},
+  "mode": "editing",
+  "mapName": "FF7",
+  "cdnBaseUrl": "https://avidrucker.github.io/img-test-1/FF7",
+  "bgImage": {
+    "included": true,
+    "imageUrl": "underlay.webp",
+    "x": 0,
+    "y": 0,
+    "scale": 200,
+    "opacity": 33,
+    "visible": true
+  },
+  "orientation": 0,
+  "compassVisible": false
+}
