@@ -1,6 +1,16 @@
 {
   "nodes": [
     {
+      "id": "Wutai",
+      "title": "Wutai",
+      "size": "regular",
+      "color": "gray",
+      "x": 408.81452484415706,
+      "y": 1804.5934937506092,
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
+    },
+    {
       "id": "Temple_of_the_Ancients",
       "title": "Temple of the Ancients",
       "size": "regular",
@@ -47,7 +57,8 @@
       "color": "gray",
       "x": 5792.975934717416,
       "y": 3032.394516204175,
-      "imageUrl": "unspecified"
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
     },
     {
       "id": "Mideel",
@@ -56,7 +67,8 @@
       "color": "gray",
       "x": 5266.924994176445,
       "y": 4664.262995574099,
-      "imageUrl": "unspecified"
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
     },
     {
       "id": "Kalm",
@@ -165,15 +177,16 @@
       "color": "gray",
       "x": 4861.122546981929,
       "y": 3883.897031476581,
-      "imageUrl": "unspecified"
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
     },
     {
-      "id": "Wutai",
-      "title": "Wutai",
+      "id": "Northern_Cave_Crater",
+      "title": "Northern Cave Crater",
       "size": "regular",
       "color": "gray",
-      "x": 391.72916390528655,
-      "y": 1797.0000000000002,
+      "x": 2935.9431793904314,
+      "y": 418.2376151202841,
       "imageUrl": "unspecified"
     }
   ],
@@ -183,13 +196,8 @@
   "mapName": "FF7",
   "cdnBaseUrl": "https://avidrucker.github.io/img-test-1/FF7",
   "bgImage": {
-    "included": true,
-    "imageUrl": "underlay.jpg",
-    "x": 0,
-    "y": 0,
-    "scale": 200,
-    "opacity": 33,
-    "visible": true
+    "included": false,
+    "imageUrl": ""
   },
   "orientation": 0,
   "compassVisible": false
