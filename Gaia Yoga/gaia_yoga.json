@@ -116,7 +116,7 @@
       "size": "double",
       "color": "gray",
       "x": -1327.2513951782646,
-      "y": -82.49587716504064,
+      "y": -82.49587716504061,
       "imageUrl": "The_Workshop__Carport_1ebb3e63bfca.jpeg",
       "originalImageUrl": "The_Workshop__Carport_1ebb3e63bfca.jpeg"
     },
@@ -1106,17 +1106,23 @@
       "This is Flow's hut (as of August 2025)."
     ],
     "Hale_Moo": [
-      "This is a 100+ year old teak house imported from Bali. It was disassembled in Bali, shipped to Gaia Yoga, and re-assembled here.",
-      "This is also called Kana's teak house, because Kana lives here and it is made of teak wood."
+      "This is a 100+ year old teak house imported from Malaysia. It was disassembled in Malaysia, shipped to Gaia Yoga, and re-assembled here.",
+      "This is also called Kana's teak house, because Kana lives here and it is made of teak wood.",
+      "Hale Mo'o means 'House of the Dragon'."
     ]
   },
   "mode": "editing",
   "mapName": "Gaia Yoga",
   "cdnBaseUrl": "https://avidrucker.github.io/img-test-1/Gaia%20Yoga",
-  "bgImage": {
-    "included": false,
-    "imageUrl": ""
-  },
   "orientation": 0,
-  "compassVisible": true
+  "compassVisible": true,
+  "bgImage": {
+    "included": true,
+    "imageUrl": "underlay.png",
+    "x": -4550,
+    "y": -5150,
+    "scale": 700,
+    "opacity": 33,
+    "visible": true
+  }
 }
