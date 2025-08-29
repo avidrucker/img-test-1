@@ -187,7 +187,8 @@
       "color": "gray",
       "x": 2935.9431793904314,
       "y": 418.2376151202841,
-      "imageUrl": "unspecified"
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
     }
   ],
   "edges": [],
@@ -195,10 +196,15 @@
   "mode": "editing",
   "mapName": "FF7",
   "cdnBaseUrl": "https://avidrucker.github.io/img-test-1/FF7",
-  "bgImage": {
-    "included": false,
-    "imageUrl": ""
-  },
   "orientation": 0,
-  "compassVisible": false
+  "compassVisible": false,
+  "bgImage": {
+    "included": true,
+    "imageUrl": "underlay.jpg",
+    "opacity": 33,
+    "scale": 200,
+    "visible": true,
+    "x": 0,
+    "y": 0
+  }
 }
