@@ -201,7 +201,7 @@
   "bgImage": {
     "included": true,
     "imageUrl": "underlay.jpg",
-    "opacity": 33,
+    "opacity": 50,
     "scale": 335,
     "visible": true,
     "x": 0,
