@@ -424,7 +424,7 @@
       "id": "La_Pueo",
       "title": "La Pueo",
       "size": "double",
-      "color": "red",
+      "color": "gray",
       "x": -2271.6204723812516,
       "y": -1893.1596441083157,
       "imageUrl": "unspecified",
@@ -474,7 +474,7 @@
       "id": "Thimbleberry",
       "title": "Thimbleberry",
       "size": "double",
-      "color": "red",
+      "color": "gray",
       "x": -2068.4173924344427,
       "y": -5006.250293934815,
       "imageUrl": "Thimbleberry_863cb250bfdd.jpeg",
@@ -985,6 +985,12 @@
       "source": "The_Pasture",
       "target": "Milking_Stanchion",
       "direction": "forward"
+    },
+    {
+      "id": "Lower_Pumphouse__Lower_Water_Tank_B",
+      "source": "Lower_Pumphouse",
+      "target": "Lower_Water_Tank_B",
+      "direction": "forward"
     }
   ],
   "notes": {
@@ -1118,7 +1124,7 @@
   "compassVisible": true,
   "bgImage": {
     "included": true,
-    "imageUrl": "underlay.png",
+    "imageUrl": "underlay.webp",
     "x": -4550,
     "y": -5150,
     "scale": 700,
