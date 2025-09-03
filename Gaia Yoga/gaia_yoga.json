@@ -25,8 +25,8 @@
       "title": "Truck Garage",
       "size": "half",
       "color": "gray",
-      "x": -991.5087241768924,
-      "y": 208.9912971901324,
+      "x": -1360.5833241188989,
+      "y": 240.5240240330869,
       "imageUrl": "Truck_Garage_89c3f47c426c.jpeg",
       "originalImageUrl": "Truck_Garage_89c3f47c426c.jpeg"
     },
@@ -133,10 +133,10 @@
     {
       "id": "Upper_Coco_Bar",
       "title": "Upper Coco Bar",
-      "size": "regular",
+      "size": "half",
       "color": "gray",
-      "x": -1545.3541090919916,
-      "y": 97.52734078493478,
+      "x": -1549.5013124606285,
+      "y": -28.96236195848877,
       "imageUrl": "Upper_Coco_Bar_6d9270c04e37.jpeg",
       "originalImageUrl": "Upper_Coco_Bar_6d9270c04e37.jpeg"
     },
@@ -171,8 +171,8 @@
       "originalImageUrl": "Chateau_Bali_80190d7a2d10.jpeg"
     },
     {
-      "id": "Stefanos_Lab_formerly",
-      "title": "Stefano's Lab (formerly)",
+      "id": "Apotheca_Botanica",
+      "title": "Apotheca Botanica",
       "size": "regular",
       "color": "gray",
       "x": -1386.0488286141667,
@@ -201,8 +201,8 @@
       "originalImageUrl": "unspecified"
     },
     {
-      "id": "Halai_Hapai",
-      "title": "Halai Hapai",
+      "id": "Hale_Hapai",
+      "title": "Hale Hapai",
       "size": "double",
       "color": "gray",
       "x": -522.1984722974667,
@@ -421,8 +421,8 @@
       "originalImageUrl": "Anos_School_Bus_cdefdb5e9caf.jpeg"
     },
     {
-      "id": "La_Pueo",
-      "title": "La Pueo",
+      "id": "Laa_Pueo",
+      "title": "La'a Pueo",
       "size": "double",
       "color": "gray",
       "x": -2271.6204723812516,
@@ -441,8 +441,8 @@
       "originalImageUrl": "unspecified"
     },
     {
-      "id": "Wunderspot",
-      "title": "Wunderspot",
+      "id": "Wnderspot",
+      "title": "Wünderspot",
       "size": "regular",
       "color": "gray",
       "x": 540.656919143555,
@@ -569,6 +569,15 @@
       "y": -3614.411998544409,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
+    },
+    {
+      "id": "Coco_Corral",
+      "title": "Coco Corral",
+      "size": "half",
+      "color": "gray",
+      "x": -1551.0951510701223,
+      "y": 123.45446433627134,
+      "imageUrl": "unspecified"
     }
   ],
   "edges": [
@@ -615,14 +624,14 @@
       "direction": "forward"
     },
     {
-      "id": "The_Peanut_Lawn__Halai_Hapai",
+      "id": "The_Peanut_Lawn__Hale_Hapai",
       "source": "The_Peanut_Lawn",
-      "target": "Halai_Hapai",
+      "target": "Hale_Hapai",
       "direction": "backward"
     },
     {
-      "id": "Halai_Hapai__Tutus",
-      "source": "Halai_Hapai",
+      "id": "Hale_Hapai__Tutus",
+      "source": "Hale_Hapai",
       "target": "Tutus",
       "direction": "forward"
     },
@@ -657,9 +666,9 @@
       "direction": "forward"
     },
     {
-      "id": "The_Workshop__Carport__Stefanos_Lab_formerly",
+      "id": "The_Workshop__Carport__Apotheca_Botanica",
       "source": "The_Workshop__Carport",
-      "target": "Stefanos_Lab_formerly",
+      "target": "Apotheca_Botanica",
       "direction": "forward"
     },
     {
@@ -681,8 +690,8 @@
       "direction": "forward"
     },
     {
-      "id": "Wunderspot__Woodstock_Parking_Lot",
-      "source": "Wunderspot",
+      "id": "Wnderspot__Woodstock_Parking_Lot",
+      "source": "Wnderspot",
       "target": "Woodstock_Parking_Lot",
       "direction": "forward"
     },
@@ -765,12 +774,6 @@
       "direction": "forward"
     },
     {
-      "id": "Moe_Uhane__Thimbleberry",
-      "source": "Moe_Uhane",
-      "target": "Thimbleberry",
-      "direction": "forward"
-    },
-    {
       "id": "Hale_Lua__The_Ka",
       "source": "Hale_Lua",
       "target": "The_Ka",
@@ -807,9 +810,9 @@
       "direction": "forward"
     },
     {
-      "id": "Powersharing__Laundry_Room__Stefanos_Lab_formerly",
+      "id": "Powersharing__Laundry_Room__Apotheca_Botanica",
       "source": "Powersharing__Laundry_Room",
-      "target": "Stefanos_Lab_formerly",
+      "target": "Apotheca_Botanica",
       "direction": "forward"
     },
     {
@@ -861,14 +864,14 @@
       "direction": "forward"
     },
     {
-      "id": "The_Mana_Hut__La_Pueo",
+      "id": "The_Mana_Hut__Laa_Pueo",
       "source": "The_Mana_Hut",
-      "target": "La_Pueo",
+      "target": "Laa_Pueo",
       "direction": "forward"
     },
     {
-      "id": "Stefanos_Lab_formerly__Old_Bamboo_Nursery",
-      "source": "Stefanos_Lab_formerly",
+      "id": "Apotheca_Botanica__Old_Bamboo_Nursery",
+      "source": "Apotheca_Botanica",
       "target": "Old_Bamboo_Nursery",
       "direction": "forward"
     },
@@ -915,14 +918,14 @@
       "direction": "forward"
     },
     {
-      "id": "La_Pueo__The_Ka",
-      "source": "La_Pueo",
+      "id": "Laa_Pueo__The_Ka",
+      "source": "Laa_Pueo",
       "target": "The_Ka",
       "direction": "forward"
     },
     {
-      "id": "La_Pueo__Hale_Moo",
-      "source": "La_Pueo",
+      "id": "Laa_Pueo__Hale_Moo",
+      "source": "Laa_Pueo",
       "target": "Hale_Moo",
       "direction": "forward"
     },
@@ -963,8 +966,8 @@
       "direction": "forward"
     },
     {
-      "id": "Stefanos_Lab_formerly__Upper_Pumphouse",
-      "source": "Stefanos_Lab_formerly",
+      "id": "Apotheca_Botanica__Upper_Pumphouse",
+      "source": "Apotheca_Botanica",
       "target": "Upper_Pumphouse",
       "direction": "forward"
     },
@@ -990,6 +993,36 @@
       "id": "Lower_Pumphouse__Lower_Water_Tank_B",
       "source": "Lower_Pumphouse",
       "target": "Lower_Water_Tank_B",
+      "direction": "forward"
+    },
+    {
+      "id": "The_Workshop__Carport__Upper_Coco_Bar",
+      "source": "The_Workshop__Carport",
+      "target": "Upper_Coco_Bar",
+      "direction": "forward"
+    },
+    {
+      "id": "The_Workshop__Carport__Coco_Corral",
+      "source": "The_Workshop__Carport",
+      "target": "Coco_Corral",
+      "direction": "forward"
+    },
+    {
+      "id": "Moe_Uhane__Milking_Stanchion",
+      "source": "Moe_Uhane",
+      "target": "Milking_Stanchion",
+      "direction": "forward"
+    },
+    {
+      "id": "Milking_Stanchion__Thimbleberry",
+      "source": "Milking_Stanchion",
+      "target": "Thimbleberry",
+      "direction": "forward"
+    },
+    {
+      "id": "The_Kuti__Thimbleberry",
+      "source": "The_Kuti",
+      "target": "Thimbleberry",
       "direction": "forward"
     }
   ],
@@ -1021,9 +1054,6 @@
     ],
     "The_Peanut_Lawn": [
       "This lawn has a plant called \"Creeping Peanut\". This plant typically doesn't produce seeds, but it does has a pretty yellow flower."
-    ],
-    "Wunderspot": [
-      "This is where Elohi lives current (as of August 2025)."
     ],
     "Lava_Access_Point_One": [
       "This used to be the quickest way to Pahoa until the lava cut it off."
@@ -1072,16 +1102,8 @@
       "The hot water can come on suddenly and turn off suddenly - watch out for that.",
       "There are two showers here so two people can comfortably shower at the same time."
     ],
-    "Stefanos_Lab_formerly": [
-      "There is a working sink with running water here (as of August 2025).",
-      "Stefano's Lab was also called \"The Apothecary\".",
-      "TODO: Check in on the lab, to see if the sink is still there."
-    ],
     "The_Mana_Hut": [
       "The Mana Hut is typically the hut where female guests stay."
-    ],
-    "Halai_Hapai": [
-      "This is where Chelsea lives (as of August 2025)."
     ],
     "Lower_Water_Tank_B": [
       "This tank is currently non-operational (as of August 2025)."
@@ -1092,7 +1114,8 @@
     "Powersharing__Laundry_Room": [
       "Powersharing's roof is covered in solar panels. These panels power the entirety of Gaia Yoga.",
       "Don't use the laundry machine if the battery reads 20% or lower.",
-      "The battery percent readout display is currently broken (as of August 26th, 2025)."
+      "The battery percent readout display is currently broken (as of August 26th, 2025).",
+      "#todo Someone needs to go up on the roof of powersharing to clear the jungle vines off of the solar panels."
     ],
     "Water_Tanks_Site_A": [
       "There are three water tanks next to the upper pumphouse.",
@@ -1108,13 +1131,29 @@
     "The_Casbah": [
       "Typically a meeting space, this hut has recently stopped being the meeting space in favor of meetings at Tutu's (as of August 2025)."
     ],
-    "La_Pueo": [
-      "This is Flow's hut (as of August 2025)."
-    ],
     "Hale_Moo": [
       "This is a 100+ year old teak house imported from Malaysia. It was disassembled in Malaysia, shipped to Gaia Yoga, and re-assembled here.",
       "This is also called Kana's teak house, because Kana lives here and it is made of teak wood.",
       "Hale Mo'o means 'House of the Dragon'."
+    ],
+    "Laa_Pueo": [
+      "This is Flow's hut (as of August 2025)."
+    ],
+    "Hale_Hapai": [
+      "This is where Chelsea lives (as of August 2025)."
+    ],
+    "Wnderspot": [
+      "This is where Elohi lives current (as of August 2025)."
+    ],
+    "Upper_Pumphouse": [
+      "The upper pumphouse is operational as of August 2025."
+    ],
+    "Coco_Corral": [
+      "Coconut shakers are stored here."
+    ],
+    "Apotheca_Botanica": [
+      "There was a working sink with running water here back in August 2025. Currently (in September 2025), there is a water connection pipe, but no sink or hose to draw water directly.",
+      "This structure was Stefano's lab."
     ]
   },
   "mode": "editing",
@@ -1129,6 +1168,6 @@
     "y": -5150,
     "scale": 700,
     "opacity": 33,
-    "visible": true
+    "visible": false
   }
 }
