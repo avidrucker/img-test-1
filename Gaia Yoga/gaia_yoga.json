@@ -577,7 +577,8 @@
       "color": "gray",
       "x": -1551.0951510701223,
       "y": 123.45446433627134,
-      "imageUrl": "unspecified"
+      "imageUrl": "unspecified",
+      "originalImageUrl": "unspecified"
     }
   ],
   "edges": [
@@ -1028,21 +1029,22 @@
   ],
   "notes": {
     "The_Landing": [
-      "There is a kitchen with a stove, a sink with filtered water, and a fridge.",
+      "There is a kitchen with a stove, a sink with #filtered #water, and a fridge.",
       "The Landing is the oldest structure at Gaia Yoga. It is currently in need of serious cleaning and repairs (roof, water leaks, etc..)",
-      "The Landing is the only structure with Wi-Fi, and is the preferred place for people to take web calls, do online work, etc.."
+      "The Landing is one of the two huts known to have #wifi, and is the preferred place for people to take web calls, do online work, etc.."
     ],
     "Tutus": [
       "Tutu's is the communal space for holding meetings as of August 2025.",
       "Tutu's is an EMF-free space, where people are requested to keep their phones on airplane mode.",
-      "Tutu's means \"Grandma's\" and was named so in honor of Melekai's mother."
+      "Tutu's means \"Grandma's\" and was named so in honor of Melekai's mother.",
+      "Tutu's has a water filter for getting #filtered #water."
     ],
     "Moe_Uhane": [
       "Moe Uhane is Gaia Yoga's music studio, equipped with speakers, instruments, and (actual) walls.",
       "This might be a good place to do yoga, especially when the weather isn't hospitable."
     ],
     "Anos_School_Bus": [
-      "This used to be the music studio, before Moe Uhane.",
+      "This used to be the recording studio, before Moe Uhane.",
       "The school bus is now mostly used for storage of miscellaneous items."
     ],
     "The_Flow_House": [
@@ -1053,20 +1055,22 @@
       "This is where Joshua lives (as of August 2025)."
     ],
     "The_Peanut_Lawn": [
-      "This lawn has a plant called \"Creeping Peanut\". This plant typically doesn't produce seeds, but it does has a pretty yellow flower."
+      "This lawn has a plant called \"Creeping Peanut\". This plant typically doesn't produce seeds, but it does have a pretty yellow flower."
     ],
     "Lava_Access_Point_One": [
       "This used to be the quickest way to Pahoa until the lava cut it off."
     ],
     "Coco_Bed__Tutus": [
-      "There is a statue of an angel that has been repeatedly damaged."
+      "There is a statue of an angel here that has been repeatedly damaged."
     ],
     "Tutus_Garden": [
       "This garden has herbs that can be used for cooking like cuban cilantro, mugwort, special basil, etc..",
       "This garden is in need of further, on-going care to maintain and improve."
     ],
     "The_Kuti": [
-      "This is Melekai's place."
+      "This is Melekai's place.",
+      "The person who built The Kuti also built Tutu's."
+      "The Kuti has #running #water."
     ],
     "ShivaShakti": [
       "This is Iolanthe's place (as of August 2025)."
@@ -1076,34 +1080,36 @@
       "\"Ka\" means \"body\" in Hawaiian."
     ],
     "Fuchsia_Phoenix": [
-      "Soozi lives here (as of August 2025)."
+      "Soozi lives here (as of August 2025).",
+      "The Fuchsia Phoenix used to be called 'El Condor'."
     ],
     "The_Hot_Tub": [
-      "The hot tub was recently cleaned, and is now operational as of August 2025.",
-      "The hot tub is solar heated with solar heating panels."
+      "The hot tub was recently cleaned, and is now operational (as of August 2025).",
+      "The hot tub's water is directly heated via solar panels."
     ],
     "Laundry_Room": [
       "Don't use the laundry machine if the battery reads 20% or lower."
     ],
     "Manta_Ray": [
-      "This is the current motor bike garage as of August 2025."
+      "This is the current motor bike garage (as of August 2025)."
     ],
     "Zappa_Crappa": [
-      "The toilet available between The Bedouin and The Landing, and most accessible toilet in the upper half of Gaia Yoga."
+      "The #toilet available between The Bedouin and The Landing."
     ],
     "Daisy": [
       "Daisy is a good girl. She loves mangoes, papayas, and bananas."
     ],
     "The_Bedouin": [
-      "This hut is typically designed for male guests.",
-      "This hut has running water, electricity, and Ethernet."
+      "This communal hut is where male guests typically stay.",
+      "This hut has #running #water, #electricity, and #ethernet."
     ],
     "Auau_Heiau": [
       "The hot water can come on suddenly and turn off suddenly - watch out for that.",
       "There are two showers here so two people can comfortably shower at the same time."
     ],
     "The_Mana_Hut": [
-      "The Mana Hut is typically the hut where female guests stay."
+      "The Mana Hut is typically the hut where female guests stay.",
+      "The Mana Hut has #electricity, but no running water."
     ],
     "Lower_Water_Tank_B": [
       "This tank is currently non-operational (as of August 2025)."
@@ -1115,7 +1121,8 @@
       "Powersharing's roof is covered in solar panels. These panels power the entirety of Gaia Yoga.",
       "Don't use the laundry machine if the battery reads 20% or lower.",
       "The battery percent readout display is currently broken (as of August 26th, 2025).",
-      "#todo Someone needs to go up on the roof of powersharing to clear the jungle vines off of the solar panels."
+      "#todo Someone needs to go up on the roof of powersharing to clear the jungle vines off of the solar panels.",
+      "As a functioning laundry room, Powersharing has #running #water."
     ],
     "Water_Tanks_Site_A": [
       "There are three water tanks next to the upper pumphouse.",
@@ -1123,10 +1130,10 @@
     ],
     "El_Nido_DAguila": [
       "This is Braja's hut.",
-      "Braja's hut has Wi-Fi."
+      "Braja's hut has #wifi."
     ],
     "Hale_Manu": [
-      "Hale Manu means \"bird house\" in Hawaiian."
+      "Hale Manu means 'bird house' in Hawaiian."
     ],
     "The_Casbah": [
       "Typically a meeting space, this hut has recently stopped being the meeting space in favor of meetings at Tutu's (as of August 2025)."
@@ -1140,7 +1147,8 @@
       "This is Flow's hut (as of August 2025)."
     ],
     "Hale_Hapai": [
-      "This is where Chelsea lives (as of August 2025)."
+      "This is where Chelsea lives (as of August 2025).",
+      "This place also used to be know as Quarta Quarters."
     ],
     "Wnderspot": [
       "This is where Elohi lives current (as of August 2025)."
@@ -1149,11 +1157,12 @@
       "The upper pumphouse is operational as of August 2025."
     ],
     "Coco_Corral": [
-      "Coconut shakers are stored here."
+      "Coconut 'shakers' are stored here."
     ],
     "Apotheca_Botanica": [
       "There was a working sink with running water here back in August 2025. Currently (in September 2025), there is a water connection pipe, but no sink or hose to draw water directly.",
-      "This structure was Stefano's lab."
+      "This structure was Stefano's lab.",
+      "Before this structure was Stefano's lab, it was the previous workshop."
     ]
   },
   "mode": "editing",
