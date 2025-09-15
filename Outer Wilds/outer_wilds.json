@@ -25,8 +25,8 @@
       "title": "Eye Signal Locator",
       "size": "regular",
       "color": "green",
-      "x": 2030,
-      "y": -325,
+      "x": 2015.6504299375224,
+      "y": -401.5310403332138,
       "imageUrl": "unspecified",
       "originalImageUrl": "unspecified"
     },
@@ -509,11 +509,49 @@
       "Ore samples from the Nomai Mines on Timber Hearth were sent to this volcano for durability testing.",
       "The Nomai were trying to craft a (briefly) supernova-proof shell to encase the Ash Twin Project.",
       "Even the smallest crack or opening in the protective shell would destroy everything."
+    ],
+    "EyeSignalLocator__SouthernObservatory": [
+      "The Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole."
+    ],
+    "SouthernObservatory__OrbitalProbeCannon": [
+      "The Nomai decided to construct a probe cannon in orbit around Giant’s Deep."
+    ],
+    "OrbitalProbeCannon__ConstructionYard": [
+      "The Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.",
+      "I used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.",
+      "The Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep."
+    ],
+    "ConstructionYard__OceanDepths": [
+      "The Nomai on the Construction Yard saw something sink beneath the underwater current, which they'd previously thought was impossible."
+    ],
+    "BrambleIsland__OceanDepths": [
+      "Feldspar found a way to reach the core of Giant’s Deep."
+    ],
+    "ConstructionYard__SouthernObservatory": [
+      "There are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge."
+    ],
+    "ConstructionYard__TornadoSimulation": [
+      "The Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current."
+    ],
+    "BrambleIsland__FeldsparsCamp": [
+      "Feldspar headed off to Dark Bramble after reaching the core of Giant's Deep."
+    ],
+    "FeldsparsCamp__FrozenJellyfish": [
+      "Feldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog."
     ]
   },
   "mode": "editing",
   "mapName": "Outer Wilds",
   "cdnBaseUrl": "https://avidrucker.github.io/img-test-1/Outer%20Wilds",
   "orientation": 0,
-  "compassVisible": false
+  "compassVisible": false,
+  "bgImage": {
+    "included": false,
+    "imageUrl": "",
+    "x": 0,
+    "y": 0,
+    "scale": 100,
+    "opacity": 100,
+    "visible": false
+  }
 }
