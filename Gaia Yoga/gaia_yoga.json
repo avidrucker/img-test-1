@@ -1229,8 +1229,8 @@
     "included": true,
     "imageUrl": "underlay.webp",
     "x": -4550,
-    "y": -5100,
-    "scale": 775,
+    "y": -5150,
+    "scale": 700,
     "opacity": 33,
     "visible": false
   }
