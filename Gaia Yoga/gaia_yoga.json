@@ -3,582 +3,524 @@
     {
       "id": "Milking_Stanchion",
       "title": "Milking Stanchion 1",
-      "size": "half",
-      "color": "gray",
       "x": -1458.808476659579,
       "y": -4306.425619418471,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Daisy",
       "title": "Daisy",
-      "size": "half",
-      "color": "gray",
       "x": -509.34809866762384,
       "y": -4054.855201992803,
-      "imageUrl": "Daisy_574061b873ff.jpeg",
-      "originalImageUrl": "Daisy_574061b873ff.jpeg"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "Daisy_574061b873ff.jpeg"
     },
     {
       "id": "The_Pasture",
       "title": "The Pasture",
-      "size": "double",
-      "color": "gray",
       "x": -731.9572914908936,
       "y": -3913.738808749109,
-      "imageUrl": "Daisys_Pasture_6eadd1496caf.jpeg",
-      "originalImageUrl": "Daisys_Pasture_6eadd1496caf.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "Daisys_Pasture_6eadd1496caf.jpeg"
     },
     {
       "id": "Old_Bamboo_Nursery",
       "title": "Old Bamboo Nursery",
-      "size": "double",
-      "color": "gray",
       "x": -1691.9171214300088,
       "y": -1048.7938586457274,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Upper_Pumphouse",
       "title": "Upper Pumphouse",
-      "size": "regular",
-      "color": "gray",
       "x": -1699.8041720780907,
       "y": -651.9441596672863,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Lower_Pumphouse",
       "title": "Lower Pumphouse",
-      "size": "regular",
-      "color": "gray",
       "x": -1345.6368509557085,
       "y": -3563.1805636756712,
-      "imageUrl": "Lower_Pumphouse_5e198ae88dbc.jpeg",
-      "originalImageUrl": "Lower_Pumphouse_5e198ae88dbc.jpeg"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "Lower_Pumphouse_5e198ae88dbc.jpeg"
     },
     {
       "id": "Welcome_to_GYG_Sign",
       "title": "Welcome to GYG Sign",
-      "size": "double",
-      "color": "gray",
       "x": 1516.9860755084599,
       "y": -540.8359285379802,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Thimbleberry",
       "title": "Thimbleberry",
-      "size": "double",
-      "color": "gray",
       "x": -2117.7902048952546,
       "y": -4970.98399931995,
-      "imageUrl": "Thimbleberry_863cb250bfdd.jpeg",
-      "originalImageUrl": "Thimbleberry_863cb250bfdd.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "Thimbleberry_863cb250bfdd.jpeg"
     },
     {
       "id": "The_Octagon",
       "title": "The Octagon",
-      "size": "double",
-      "color": "gray",
       "x": -1809.9793835001578,
       "y": 660.8163216778764,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "The_Flow_House",
       "title": "The Flow House",
-      "size": "double",
-      "color": "gray",
       "x": -531.0977550165371,
       "y": 995.8853821947132,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Wnderspot",
       "title": "Wünderspot",
-      "size": "regular",
-      "color": "gray",
       "x": 540.656919143555,
       "y": -1733.9405461861172,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "ShivaShakti",
       "title": "Shiva-Shakti Chalet",
-      "size": "regular",
-      "color": "gray",
       "x": -1216.8321571357235,
       "y": -2458.657938934575,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Coco_Corral",
       "title": "Coco Corral",
+      "x": -1588.3652620135117,
+      "y": 160.72457527966088,
       "size": "half",
       "color": "gray",
-      "x": -1551.0951510701223,
-      "y": 123.45446433627134,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "imageUrl": "unspecified"
     },
     {
       "id": "Lower_Water_Tank_B",
       "title": "Lower Water Tank B",
-      "size": "regular",
-      "color": "red",
       "x": -1495.7372501976065,
       "y": -3614.411998544409,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "regular",
+      "color": "red",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Water_Tanks_Site_A",
       "title": "Water Tanks Site A",
-      "size": "regular",
-      "color": "gray",
       "x": -1844.0632542564158,
       "y": -585.4569855117824,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Lava_Access_Point_One",
       "title": "Lava Access Point One",
-      "size": "double",
-      "color": "gray",
       "x": 365.2581043787138,
       "y": 1132.030984111487,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "The_Bee_Hives",
       "title": "The Bee Hives",
-      "size": "double",
-      "color": "gray",
       "x": 715.3058655175047,
       "y": 588.8217372263745,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Truck_Garage",
       "title": "Truck Garage",
+      "x": -1362.9127060528608,
+      "y": 280.1235169104383,
       "size": "half",
       "color": "gray",
-      "x": -1360.5833241188989,
-      "y": 240.5240240330869,
-      "imageUrl": "Truck_Garage_89c3f47c426c.jpeg",
-      "originalImageUrl": "Truck_Garage_89c3f47c426c.jpeg"
+      "imageUrl": "Truck_Garage_89c3f47c426c.jpeg"
     },
     {
       "id": "Powersharing__Laundry_Room",
       "title": "Powersharing / Laundry Room",
-      "size": "double",
-      "color": "gray",
       "x": -821.3729530757994,
       "y": -714.1176772019351,
-      "imageUrl": "Powersharing__Laundry_Room_2c10a4879097.jpeg",
-      "originalImageUrl": "Powersharing__Laundry_Room_2c10a4879097.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "Powersharing__Laundry_Room_2c10a4879097.jpeg"
     },
     {
       "id": "The_Kuti",
       "title": "The Kuti",
-      "size": "double",
-      "color": "gray",
       "x": -3023.7804191979785,
       "y": -4786.853761840916,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Tutus_Garden",
       "title": "Tutu's Garden",
-      "size": "half",
-      "color": "gray",
       "x": 153.01486840020863,
       "y": -3198.595771671863,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Manta_Ray",
       "title": "Manta Ray",
+      "x": -1168.8933664998397,
+      "y": 289.00391775027657,
       "size": "half",
       "color": "gray",
-      "x": -1138.6114013583358,
-      "y": 293.6626816182003,
-      "imageUrl": "Manta_Ray_ac87eb509421.jpeg",
-      "originalImageUrl": "Manta_Ray_ac87eb509421.jpeg"
+      "imageUrl": "Manta_Ray_ac87eb509421.jpeg"
     },
     {
       "id": "The_Landing",
       "title": "The Landing",
-      "size": "double",
-      "color": "gray",
       "x": -397.8534730715637,
       "y": -185.14651871790812,
-      "imageUrl": "The_Landing_90d4b2db21d3.jpeg",
-      "originalImageUrl": "The_Landing_90d4b2db21d3.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "The_Landing_90d4b2db21d3.jpeg"
     },
     {
       "id": "The_Peanut_Lawn",
       "title": "The Peanut Lawn",
-      "size": "double",
-      "color": "gray",
       "x": -42.92055344236729,
       "y": -865.1411104828835,
-      "imageUrl": "The_Peanut_Lawn_cdbac315efc5.jpeg",
-      "originalImageUrl": "The_Peanut_Lawn_cdbac315efc5.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "The_Peanut_Lawn_cdbac315efc5.jpeg"
     },
     {
       "id": "Tutus",
       "title": "Tutu's",
-      "size": "double",
-      "color": "gray",
       "x": -71.74037718370158,
       "y": -3310.878698341287,
-      "imageUrl": "Tutus_3b9f6a0e55df.jpeg",
-      "originalImageUrl": "Tutus_3b9f6a0e55df.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "Tutus_3b9f6a0e55df.jpeg"
     },
     {
       "id": "Auau_Heiau",
       "title": "Au'au Hei'au",
-      "size": "regular",
-      "color": "gray",
       "x": -597.9595973255523,
       "y": -882.040843867138,
-      "imageUrl": "Auau_Heiau_72b72110350d.jpeg",
-      "originalImageUrl": "Auau_Heiau_72b72110350d.jpeg"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "Auau_Heiau_72b72110350d.jpeg"
     },
     {
       "id": "The_Workshop__Carport",
       "title": "The Workshop / Carport",
-      "size": "double",
-      "color": "gray",
       "x": -1327.2513951782646,
       "y": -82.49587716504061,
-      "imageUrl": "The_Workshop__Carport_1ebb3e63bfca.jpeg",
-      "originalImageUrl": "The_Workshop__Carport_1ebb3e63bfca.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "The_Workshop__Carport_1ebb3e63bfca.jpeg"
     },
     {
       "id": "untitled7",
       "title": "The Drying Area",
-      "size": "regular",
-      "color": "gray",
       "x": -890.205216364626,
       "y": -1004.3706042376921,
-      "imageUrl": "untitled7_584f9c4d9823.jpeg",
-      "originalImageUrl": "untitled7_584f9c4d9823.jpeg"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "untitled7_584f9c4d9823.jpeg"
     },
     {
       "id": "Upper_Coco_Bar",
       "title": "Upper Coco Bar",
-      "size": "half",
+      "x": -1726.5343394417287,
+      "y": -14.986070354717697,
+      "size": "regular",
       "color": "gray",
-      "x": -1549.5013124606285,
-      "y": -28.96236195848877,
-      "imageUrl": "Upper_Coco_Bar_6d9270c04e37.jpeg",
-      "originalImageUrl": "Upper_Coco_Bar_6d9270c04e37.jpeg"
+      "imageUrl": "Upper_Coco_Bar_6d9270c04e37.jpeg"
     },
     {
       "id": "The_Bedouin",
       "title": "The Bedouin",
-      "size": "double",
-      "color": "gray",
       "x": 411.4166180005201,
       "y": -320.93111467614096,
-      "imageUrl": "The_Bedouin_2fedec1ce950.jpeg",
-      "originalImageUrl": "The_Bedouin_2fedec1ce950.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "The_Bedouin_2fedec1ce950.jpeg"
     },
     {
       "id": "Zappa_Crappa",
       "title": "Zappa Crappa",
-      "size": "regular",
-      "color": "gray",
       "x": 161.80304716486017,
       "y": 92.37321718031416,
-      "imageUrl": "Zappa_Crappa_92c29c75ad59.jpeg",
-      "originalImageUrl": "Zappa_Crappa_92c29c75ad59.jpeg"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "Zappa_Crappa_92c29c75ad59.jpeg"
     },
     {
       "id": "Chateau_Bali",
       "title": "Chateau Bali",
-      "size": "double",
-      "color": "gray",
       "x": 159.90730103594012,
       "y": -1296.5420390321865,
-      "imageUrl": "Chateau_Bali_80190d7a2d10.jpeg",
-      "originalImageUrl": "Chateau_Bali_80190d7a2d10.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "Chateau_Bali_80190d7a2d10.jpeg"
     },
     {
       "id": "Apotheca_Botanica",
       "title": "Apothe-Crafty",
-      "size": "regular",
-      "color": "gray",
       "x": -1386.0488286141667,
       "y": -404.4928102088252,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Fuchsia_Phoenix",
       "title": "Fuchsia Phoenix",
-      "size": "double",
-      "color": "gray",
       "x": -2382.7244571448778,
       "y": -224.35227811665936,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "The_Mana_Hut",
       "title": "The Mana Hut",
-      "size": "double",
-      "color": "gray",
       "x": -2305.0532064329022,
       "y": -886.57642994297,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Hale_Hapai",
       "title": "Hale Hapai",
-      "size": "double",
-      "color": "gray",
       "x": -522.1984722974667,
       "y": -1987.9023401735471,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "The_Pool",
       "title": "The Pool",
-      "size": "half",
-      "color": "gray",
       "x": 208.35338460943046,
       "y": -866.5240902275056,
-      "imageUrl": "The_Pool_3947283d387d.jpeg",
-      "originalImageUrl": "The_Pool_3947283d387d.jpeg"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "The_Pool_3947283d387d.jpeg"
     },
     {
       "id": "The_Hot_Tub",
       "title": "The Hot Tub",
-      "size": "half",
-      "color": "gray",
       "x": -243.98486345734898,
       "y": -1067.2092253086328,
-      "imageUrl": "The_Hot_Tub_985e52993ad4.jpeg",
-      "originalImageUrl": "The_Hot_Tub_985e52993ad4.jpeg"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "The_Hot_Tub_985e52993ad4.jpeg"
     },
     {
       "id": "The_Fire_Pit",
       "title": "The Fire Pit",
-      "size": "half",
-      "color": "gray",
       "x": 203.86981151256444,
       "y": -1000.6994293187186,
-      "imageUrl": "The_Fire_Pit_71bd83597ee5.jpeg",
-      "originalImageUrl": "The_Fire_Pit_71bd83597ee5.jpeg"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "The_Fire_Pit_71bd83597ee5.jpeg"
     },
     {
       "id": "The_Trampoline",
       "title": "The Trampoline",
-      "size": "half",
-      "color": "gray",
       "x": 204.13457910965053,
       "y": -727.5032582240652,
-      "imageUrl": "The_Trampoline_cdd38a93a919.jpeg",
-      "originalImageUrl": "The_Trampoline_cdd38a93a919.jpeg"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "The_Trampoline_cdd38a93a919.jpeg"
     },
     {
       "id": "Woodstock_Parking_Lot",
       "title": "Woodstock Parking Lot",
-      "size": "double",
-      "color": "gray",
       "x": 862.5900802872691,
       "y": -2056.258384213579,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "The_Casbah",
       "title": "The Casbah",
-      "size": "double",
-      "color": "gray",
       "x": 577.7226042366003,
       "y": -863.9063267726574,
-      "imageUrl": "The_Kasbah_c6c912a1928b.jpeg",
-      "originalImageUrl": "The_Kasbah_c6c912a1928b.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "The_Kasbah_c6c912a1928b.jpeg"
     },
     {
       "id": "El_Nido_DAguila",
       "title": "El Nido D'Aguila",
-      "size": "double",
-      "color": "gray",
       "x": 1057.9674005476463,
       "y": -744.9461740207443,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Hale_Manu",
       "title": "Hale Manu",
-      "size": "regular",
-      "color": "gray",
       "x": 736.2983085717646,
       "y": -1148.45474721405,
-      "imageUrl": "Brajas_Toilet_cea019a8b470.jpeg",
-      "originalImageUrl": "Brajas_Toilet_cea019a8b470.jpeg"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "Brajas_Toilet_cea019a8b470.jpeg"
     },
     {
       "id": "Coco_Sprout_Beds",
       "title": "Coco Sprout Beds",
-      "size": "regular",
-      "color": "gray",
       "x": 445.50990852548284,
       "y": -2716.4528266847815,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Woodstock_Garage",
       "title": "Woodstock Garage",
-      "size": "regular",
-      "color": "gray",
       "x": 787.0181065553154,
       "y": -2373.252279103344,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Hale_Moo",
       "title": "Hale Mo'o",
-      "size": "double",
-      "color": "gray",
       "x": -1995.1118232590443,
       "y": -2811.0346904332005,
-      "imageUrl": "Kanas_Teak_House_51bcd334bd84.jpeg",
-      "originalImageUrl": "Kanas_Teak_House_51bcd334bd84.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "Kanas_Teak_House_51bcd334bd84.jpeg"
     },
     {
       "id": "The_Nursery",
       "title": "The Nursery",
-      "size": "double",
-      "color": "gray",
       "x": -1865.7871905473942,
       "y": -3273.6850240532003,
-      "imageUrl": "The_Nursery_08e7345662bd.jpeg",
-      "originalImageUrl": "The_Nursery_08e7345662bd.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "The_Nursery_08e7345662bd.jpeg"
     },
     {
       "id": "The_Garden",
       "title": "The Garden",
-      "size": "double",
-      "color": "gray",
       "x": -1909.8539224640028,
       "y": -2420.6081678755554,
-      "imageUrl": "The_Garden_5ba17bcc0532.jpeg",
-      "originalImageUrl": "The_Garden_5ba17bcc0532.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "The_Garden_5ba17bcc0532.jpeg"
     },
     {
       "id": "Hale_Lua",
       "title": "Hale Lua",
-      "size": "double",
-      "color": "gray",
       "x": -641.5165099091087,
       "y": -2872.6495882900194,
-      "imageUrl": "Hale_Lua_19c2e7508ab1.jpeg",
-      "originalImageUrl": "Hale_Lua_19c2e7508ab1.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "Hale_Lua_19c2e7508ab1.jpeg"
     },
     {
       "id": "Tutus_Shower",
       "title": "Tutu's Shower",
-      "size": "half",
-      "color": "gray",
       "x": 76.5698562333274,
       "y": -3564.1692098919943,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Tutus_Kitchen",
       "title": "Tutu's Kitchen",
-      "size": "half",
-      "color": "gray",
       "x": -77.52532703062981,
       "y": -3565.6836306170676,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Lower_Coco_Bar",
       "title": "Lower Coco Bar",
-      "size": "regular",
-      "color": "gray",
       "x": -416.6293688209727,
       "y": -3265.3690645421148,
-      "imageUrl": "Lower_Coco_Bar_2f629dac035e.jpeg",
-      "originalImageUrl": "Lower_Coco_Bar_2f629dac035e.jpeg"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "Lower_Coco_Bar_2f629dac035e.jpeg"
     },
     {
       "id": "Chicken_Coop",
       "title": "Chicken Coop",
-      "size": "regular",
-      "color": "gray",
       "x": -2671.9071239150435,
       "y": -1349.9661277087166,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "The_Ka",
       "title": "The Ka",
-      "size": "double",
-      "color": "gray",
       "x": -1643.4836359455305,
       "y": -1960.4374818452534,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     },
     {
       "id": "Moe_Uhane",
       "title": "Moe'uhane",
-      "size": "double",
-      "color": "gray",
       "x": -1058.366750133144,
       "y": -3571.1236372261205,
-      "imageUrl": "Moe_Uhane_2c4afea953ff.jpeg",
-      "originalImageUrl": "Moe_Uhane_2c4afea953ff.jpeg"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "Moe_Uhane_2c4afea953ff.jpeg"
     },
     {
       "id": "Anos_School_Bus",
       "title": "Ano's School Bus",
-      "size": "regular",
-      "color": "gray",
       "x": -1183.2169386020287,
       "y": -3077.1204696143527,
-      "imageUrl": "Anos_School_Bus_cdefdb5e9caf.jpeg",
-      "originalImageUrl": "Anos_School_Bus_cdefdb5e9caf.jpeg"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "Anos_School_Bus_cdefdb5e9caf.jpeg"
     },
     {
       "id": "Laa_Pueo",
       "title": "La'a Pueo",
-      "size": "double",
-      "color": "gray",
       "x": -2271.6204723812516,
       "y": -1893.1596441083157,
-      "imageUrl": "unspecified",
-      "originalImageUrl": "unspecified"
+      "size": "double",
+      "color": "gray",
+      "imageUrl": "unspecified"
     }
   ],
   "edges": [
@@ -1029,7 +971,7 @@
   ],
   "notes": {
     "The_Landing": [
-      "There is a kitchen with a stove, a sink with #filtered #water, and a #fridge.",
+      "There is a kitchen with a stove for #cooking, a sink with #filtered #water, and a #fridge.",
       "The Landing is the oldest structure at Gaia Yoga. It is currently in need of serious cleaning and repairs (roof, water leaks, etc..)",
       "The Landing is considered a Gaia Yoga 'heritage structure' and has many design flaws.",
       "The Landing is one of the two huts known to have #wifi, and is the preferred place for people to take web calls, do online work, etc.."
@@ -1043,7 +985,7 @@
       "Most of our #wheelbarrows are typically kept under Tutu's."
     ],
     "Moe_Uhane": [
-      "Moe'uhane is Gaia Yoga's music studio, equipped with speakers, instruments, and (actual) walls.",
+      "Moe'uhane is Gaia Yoga's music studio, equipped with speakers, #electricity, instruments, and (actual) walls.",
       "Moe'uhane is also a gathering and #meeting space, classroom, and sacred space.",
       "This might be a good place to do yoga, especially when the weather isn't hospitable.",
       "Moe'uhane has a ping pong table as well that is folded up when not in use."
@@ -1058,7 +1000,9 @@
     ],
     "The_Octagon": [
       "This is where Joshua lives (as of September 2025).",
-      "The Octagon has a raised bamboo pole floor."
+      "The Octagon has a raised bamboo pole floor.",
+      "The tarp was last replaced in September 2025.",
+      "The only #tv at GYG currently (in September 2025) lives here."
     ],
     "The_Peanut_Lawn": [
       "This lawn has a plant called \"Perennial Peanut\". This plant doesn't produce peanuts, but it does have a pretty yellow flower."
@@ -1075,7 +1019,7 @@
     ],
     "The_Kuti": [
       "This is Melekai's place.",
-      "The person who built The Kuti also built Tutu's and Powersharing",
+      "The person who built The Kuti also built Tutu's and Powersharing.",
       "The Kuti has #running #water."
     ],
     "ShivaShakti": [
@@ -1088,7 +1032,8 @@
     ],
     "Fuchsia_Phoenix": [
       "Soozi lives here (as of September 2025).",
-      "The Fuchsia Phoenix used to be called 'El Condor' before it was torn apart and rebuilt."
+      "The Fuchsia Phoenix used to be called 'El Condor' before it was torn apart and rebuilt.",
+      "The Fuchsia Phoenix has #electricity, #filtered #water for #drinking, and a stove top burner for #cooking."
     ],
     "The_Hot_Tub": [
       "The hot tub was recently moved from the deck next to the pool where it lived for many years. It is now operational (as of September 2025).",
@@ -1108,17 +1053,17 @@
       "Daisy used to produce #milk, but is not currently producing (in September 2025)."
     ],
     "The_Bedouin": [
-      "This communal hut is where male guests typically stay.",
-      "This hut has #running #water, #electricity, and #ethernet."
+      "This communal hut is where male guests typically stay, and there are 5 #beds for #sleeping.",
+      "This hut has #running #water, #electricity, and #ethernet #internet."
     ],
     "Auau_Heiau": [
       "Au'au Hei'au is Gaia Yoga's 'bathing temple'.",
-      "The hot water can come on suddenly and turn off suddenly - watch out for that.",
+      "#todos #fix The hot water can come on suddenly and turn off suddenly - watch out for that.",
       "There are two #showers here so two people can comfortably shower at the same time. There is also a #bathtub.",
       "Au'au Hei'au is one of three places in Gaia Yoga for #showering, offering both hot and cold water. It has a #running #water sink as well."
     ],
     "The_Mana_Hut": [
-      "The Mana Hut is a communal hut where female guests typically stay.",
+      "The Mana Hut is a communal hut where female guests typically stay, and there are currently 4 #beds for #sleeping.",
       "The Mana Hut has #electricity, but no running water."
     ],
     "Lower_Water_Tank_B": [
@@ -1129,7 +1074,7 @@
       "This is a bamboo grove that used to be a bamboo nursery."
     ],
     "Powersharing__Laundry_Room": [
-      "Powersharing's roof is covered in solar panels. These panels power the entirety of Gaia Yoga.",
+      "Powersharing's roof is covered in solar panels. These panels power the entirety of Gaia Yoga, providing #electricity during the day which are then saved into batteries.",
       "Don't use the laundry machine if the battery display reads 20% or lower.",
       "The battery percent readout display is currently broken (as of August 2025) and needs to be fixed #todo.",
       "The solar panels were last power washed in September 2025.",
@@ -1143,7 +1088,7 @@
     ],
     "El_Nido_DAguila": [
       "This breeze house is where Braja lives, and it was built specifically for her.",
-      "El Nido has #wifi."
+      "El Nido has #wifi, a stove for #cooking, and #filtered #water for #drinking."
     ],
     "Hale_Manu": [
       "Hale Manu means 'bird house' in Hawaiian.",
@@ -1157,15 +1102,18 @@
     "Hale_Moo": [
       "This is a 100+ year old teak house imported from Malaysia. It was disassembled in Malaysia, shipped to Gaia Yoga, and re-assembled here.",
       "This is also called Kana's teak house, because Kana lives here and it is made of teak wood.",
-      "Mo'o means 'dragon' or 'lizard' in Hawaiian."
+      "Mo'o means 'dragon' or 'lizard' in Hawaiian.",
+      "Kana's house has #running #water and #electricity."
     ],
     "Laa_Pueo": [
-      "This is Flow's breeze house (as of August 2025).",
+      "Flow lived here in August 2025, and Oystein lives here in September 2025.",
       "La'a Pueo contains the first pallet wood floor built at GYG circa 2010."
     ],
     "Hale_Hapai": [
       "This is where Chelsea lives (as of September 2025).",
-      "Hale Hapai used to be known as Quarta Quarters (after the Quarta family that built and originally lived there), and some still refer to it as such."
+      "Hale Hapai used to be known as Quarta Quarters (after the Quarta family that built and originally lived there), and some still refer to it as such.",
+      "Hale Hapai has #electricity and #running #water.",
+      "#question Does Hale Hapai have ethernet internet?"
     ],
     "Wnderspot": [
       "This is where Elohi lives currently (as of September 2025)."
@@ -1178,11 +1126,12 @@
       "Coconut 'shakers' are stored here and then are periodically transferred over to the coconut sprouting beds to grow out and be eaten."
     ],
     "Apotheca_Botanica": [
-      "There was a working sink with running water here back in August 2025. Currently (in September 2025), there is a water connection pipe, but no sink or hose to draw water directly.",
+      "#fix There was a working sink with running water here back in August 2025. Currently (in September 2025), there is a water connection pipe, but no sink or hose to draw water directly.",
       "Before being the 'Apothe-Crafty', this structure was Stefano's lab and was called 'Apotheca Botanica'.",
       "Before this structure was Stefano's lab, it was the previous workshop.",
       "This structure used to be called 'The Manta Ray' because it had a black tarp that looked very much like that animal.",
-      "The #plans are to turn Apothe-Crafty into a place for crafting, office work, and general creativity."
+      "The #plans are to turn Apothe-Crafty into a place for crafting, office work, and general creativity.",
+      "#todo There is an ethernet conduit cable line now (in September 2025) and a router waiting to be set up. Until then, the Apothe-Crafty does not yet have internet."
     ],
     "Woodstock_Parking_Lot": [
       "The #parking lot by Woodstock has enough space to park around 6 cars, or more if double-parked."
@@ -1201,7 +1150,7 @@
     ],
     "Tutus_Shower": [
       "There is room enough for one person to comfortably #shower at a time.",
-      "There is a #laundry machine here as well, and it is typically used to clean the towels and rags used at Tutu's."
+      "There is a #laundry machine here as well, and it is typically used to clean the towels and rags used at Tutu's. The only drier at GYG currently is at The Drying Area by Powersharing."
     ],
     "Tutus_Kitchen": [
       "The kitchen at Tutu's is used for #cooking with a #stove, #oven, and #drinking #water from a filter."
@@ -1253,7 +1202,8 @@
       "#confirm #todo The lower pumphouse needs to be fixed so that it can deliver water to Gaia Yoga again."
     ],
     "Chateau_Bali": [
-      "Typically a guest house, Chateau Bali has #electricity and #ethernet #internet, but no wifi or running water."
+      "Typically a guest house, Chateau Bali has #electricity and #ethernet #internet, but no wifi or running water.",
+      "Harmony is living here in September 2025."
     ],
     "untitled7": [
       "This is where clothes and bedding can be hung out to air-dry.",
@@ -1263,7 +1213,8 @@
       "Community fires are hosted here from time to time."
     ],
     "The_Pool": [
-      "The pool serves as an emergency backup #water #tank."
+      "The pool serves as an emergency backup #water #tank.",
+      "The pool is available for #swimming."
     ],
     "The_Trampoline": [
       "The trampoline is fun to jump on."
