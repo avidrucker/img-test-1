@@ -84,8 +84,8 @@
     {
       "id": "The_Flow_House",
       "title": "The Flow House",
-      "x": -531.0977550165371,
-      "y": 995.8853821947132,
+      "x": -486.37776607859246,
+      "y": 1076.3813622830137,
       "size": "double",
       "color": "gray",
       "imageUrl": "unspecified"
@@ -118,17 +118,17 @@
       "imageUrl": "unspecified"
     },
     {
-      "id": "Lower_Water_Tank_B",
-      "title": "Lower Water Tank B",
+      "id": "Water_Tank_Site_A",
+      "title": "Water Tank Site A",
       "x": -1495.7372501976065,
       "y": -3614.411998544409,
       "size": "regular",
-      "color": "red",
+      "color": "gray",
       "imageUrl": "unspecified"
     },
     {
-      "id": "Water_Tanks_Site_A",
-      "title": "Water Tanks Site A",
+      "id": "Water_Tanks_Site_B",
+      "title": "Water Tanks Site B",
       "x": -1844.0632542564158,
       "y": -585.4569855117824,
       "size": "regular",
@@ -138,8 +138,8 @@
     {
       "id": "Lava_Access_Point_One",
       "title": "Lava Access Point One",
-      "x": 365.2581043787138,
-      "y": 1132.030984111487,
+      "x": 460.6607474463299,
+      "y": 1185.694970837021,
       "size": "double",
       "color": "gray",
       "imageUrl": "unspecified"
@@ -521,6 +521,51 @@
       "size": "double",
       "color": "gray",
       "imageUrl": "unspecified"
+    },
+    {
+      "id": "The_Abode",
+      "title": "The Abode",
+      "size": "regular",
+      "color": "gray",
+      "x": -37.67747861499117,
+      "y": 397.8854078178381,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "The_Dog_House",
+      "title": "The Dog House",
+      "size": "regular",
+      "color": "gray",
+      "x": -1159.6587750028245,
+      "y": 2165.1437184033143,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "The_Puppy_House",
+      "title": "The Puppy House",
+      "size": "half",
+      "color": "gray",
+      "x": -1454.278920760686,
+      "y": 1306.2510900922612,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "Water_Tanks_C",
+      "title": "Water Tanks C",
+      "size": "regular",
+      "color": "gray",
+      "x": -1277.5812772855872,
+      "y": 1050.8480730095641,
+      "imageUrl": "unspecified"
+    },
+    {
+      "id": "Milking_Stanchion_2",
+      "title": "Milking Stanchion 2",
+      "size": "regular",
+      "color": "gray",
+      "x": -2726.128969017739,
+      "y": 1196.8992529479665,
+      "imageUrl": "unspecified"
     }
   ],
   "edges": [
@@ -684,12 +729,6 @@
       "id": "The_Bee_Hives__Lava_Access_Point_One",
       "source": "The_Bee_Hives",
       "target": "Lava_Access_Point_One",
-      "direction": "forward"
-    },
-    {
-      "id": "The_Bee_Hives__The_Workshop__Carport",
-      "source": "The_Bee_Hives",
-      "target": "The_Workshop__Carport",
       "direction": "forward"
     },
     {
@@ -921,9 +960,9 @@
       "direction": "forward"
     },
     {
-      "id": "Upper_Pumphouse__Water_Tanks_Site_A",
+      "id": "Upper_Pumphouse__Water_Tanks_Site_B",
       "source": "Upper_Pumphouse",
-      "target": "Water_Tanks_Site_A",
+      "target": "Water_Tanks_Site_B",
       "direction": "forward"
     },
     {
@@ -933,9 +972,9 @@
       "direction": "forward"
     },
     {
-      "id": "Lower_Pumphouse__Lower_Water_Tank_B",
+      "id": "Lower_Pumphouse__Water_Tank_Site_A",
       "source": "Lower_Pumphouse",
-      "target": "Lower_Water_Tank_B",
+      "target": "Water_Tank_Site_A",
       "direction": "forward"
     },
     {
@@ -966,6 +1005,48 @@
       "id": "The_Kuti__Thimbleberry",
       "source": "The_Kuti",
       "target": "Thimbleberry",
+      "direction": "forward"
+    },
+    {
+      "id": "The_Dog_House__The_Puppy_House",
+      "source": "The_Dog_House",
+      "target": "The_Puppy_House",
+      "direction": "forward"
+    },
+    {
+      "id": "The_Bee_Hives__The_Abode",
+      "source": "The_Bee_Hives",
+      "target": "The_Abode",
+      "direction": "forward"
+    },
+    {
+      "id": "The_Abode__The_Workshop__Carport",
+      "source": "The_Abode",
+      "target": "The_Workshop__Carport",
+      "direction": "forward"
+    },
+    {
+      "id": "Milking_Stanchion_2__The_Puppy_House",
+      "source": "Milking_Stanchion_2",
+      "target": "The_Puppy_House",
+      "direction": "forward"
+    },
+    {
+      "id": "The_Puppy_House__Water_Tanks_C",
+      "source": "The_Puppy_House",
+      "target": "Water_Tanks_C",
+      "direction": "forward"
+    },
+    {
+      "id": "Water_Tanks_C__The_Flow_House",
+      "source": "Water_Tanks_C",
+      "target": "The_Flow_House",
+      "direction": "forward"
+    },
+    {
+      "id": "Water_Tanks_C__The_Octagon",
+      "source": "Water_Tanks_C",
+      "target": "The_Octagon",
       "direction": "forward"
     }
   ],
@@ -1066,10 +1147,6 @@
       "The Mana Hut is a communal hut where female guests typically stay, and there are currently 4 #beds for #sleeping.",
       "The Mana Hut has #electricity, but no running water."
     ],
-    "Lower_Water_Tank_B": [
-      "#confirm This tank is currently non-operational (as of August 2025).",
-      "This is one of three areas we have for rain water storage. This water is pumped around the property for general use. It is fed by the roofs of Tutu's, Moe'uhane, and Hale Mo'o."
-    ],
     "Old_Bamboo_Nursery": [
       "This is a bamboo grove that used to be a bamboo nursery."
     ],
@@ -1080,11 +1157,6 @@
       "The solar panels were last power washed in September 2025.",
       "As a functioning laundry room, Powersharing has #running #water.",
       "#todo The backup generator which typically lives here is currently being fixed (in September 2025), so Gaia Yoga does not have backup power if the solar batteries run out."
-    ],
-    "Water_Tanks_Site_A": [
-      "There are three water tanks next to the upper pumphouse.",
-      "#confirm These are currently the water tanks being used for all of Gaia Yoga's water (as of August 2025).",
-      "These three water tanks are are fed by the roofs of 'The Manta Ray', 'The Car Barn', and 'The Apotha-Crafty'."
     ],
     "El_Nido_DAguila": [
       "This breeze house is where Braja lives, and it was built specifically for her.",
@@ -1218,6 +1290,37 @@
     ],
     "The_Trampoline": [
       "The trampoline is fun to jump on."
+    ],
+    "Water_Tank_Site_A": [
+      "#confirm This tank is currently non-operational (as of August 2025).",
+      "This is one of three areas we have for rain water storage. This water is pumped around the property for general use. It is fed by the roofs of Tutu's, Moe'uhane, and Hale Mo'o."
+    ],
+    "Water_Tanks_Site_B": [
+      "There are three water tanks next to the upper pumphouse.",
+      "#confirm These are currently the water tanks being used for all of Gaia Yoga's water (as of August 2025).",
+      "These three water tanks are are fed by the roofs of 'The Manta Ray', 'The Car Barn', and 'The Apotha-Crafty'."
+    ],
+    "The_Dog_House": [
+      "The Dog House is where the internet comes in to GYG.",
+      "The Dog House houses a dual-band mobile network router which uses a sim card.",
+      "We currently use T-Mobile internet.",
+      "The Dog House router can technically use two sim cards to connect simultaneously to two different mobile carriers."
+    ],
+    "The_Puppy_House": [
+      "The Puppy House is a signal repeater for the ethernet.",
+      "The Puppy House is connects the internet from the Dog House to the Octagon."
+    ],
+    "The_Abode": [
+      "The Abode is a living structure with a strawberry guava canopy. It has a tarp above that for rain cover.",
+      "The Abode has #ethernet #internet and #electricity.",
+      "#fix #todos The electrical socket needs to be replaced as it is currently only half functional (one of the two sockets is not working)."
+    ],
+    "Water_Tanks_C": [
+      "There are two water tanks between The Octagon and the road to Milking Stanchion 2."
+    ],
+    "Milking_Stanchion_2": [
+      "Milking Stanchion 2 isn't being used in 2025 as there is only one cow at GYG and they are in the other pasture.",
+      "Milking Stanchion 2 was used to milk the cows that lived in the pasture near here."
     ]
   },
   "mode": "editing",
@@ -1232,6 +1335,6 @@
     "y": -5150,
     "scale": 700,
     "opacity": 33,
-    "visible": false
+    "visible": true
   }
 }
