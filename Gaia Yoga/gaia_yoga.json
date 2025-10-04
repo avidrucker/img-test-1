@@ -61,7 +61,7 @@
       "y": -540.8359285379802,
       "size": "double",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "Welcome_to_GYG_Sign_521299b7c24d.jpeg"
     },
     {
       "id": "Thimbleberry",
@@ -79,7 +79,7 @@
       "y": 660.8163216778764,
       "size": "double",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "The_Octagon_d6bcdaaa65af.jpeg"
     },
     {
       "id": "The_Flow_House",
@@ -88,7 +88,7 @@
       "y": 1076.3813622830137,
       "size": "double",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "The_Flow_House_f0866d14d12e.jpeg"
     },
     {
       "id": "Wnderspot",
@@ -133,7 +133,7 @@
       "y": -585.4569855117824,
       "size": "regular",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "Water_Tanks_Site_B_ca97d9eca924.jpeg"
     },
     {
       "id": "Lava_Access_Point_One",
@@ -142,7 +142,7 @@
       "y": 1185.694970837021,
       "size": "double",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "Lava_Access_Point_One_cdeafbcf8de1.jpeg"
     },
     {
       "id": "The_Bee_Hives",
@@ -151,7 +151,7 @@
       "y": 588.8217372263745,
       "size": "double",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "The_Bee_Hives_362c07b7b477.jpeg"
     },
     {
       "id": "Truck_Garage",
@@ -178,7 +178,7 @@
       "y": -4786.853761840916,
       "size": "double",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "The_Kuti_a19bf3519135.jpeg"
     },
     {
       "id": "Tutus_Garden",
@@ -313,7 +313,7 @@
       "y": -886.57642994297,
       "size": "double",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "The_Mana_Hut_458df7857784.jpeg"
     },
     {
       "id": "Hale_Hapai",
@@ -525,47 +525,47 @@
     {
       "id": "The_Abode",
       "title": "The Abode",
-      "size": "regular",
-      "color": "gray",
       "x": -37.67747861499117,
       "y": 397.8854078178381,
-      "imageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "The_Abode_94c2481fa34a.jpeg"
     },
     {
       "id": "The_Dog_House",
       "title": "The Dog House",
-      "size": "regular",
-      "color": "gray",
       "x": -1159.6587750028245,
       "y": 2165.1437184033143,
-      "imageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "The_Dog_House_6eef131158b0.jpeg"
     },
     {
       "id": "The_Puppy_House",
       "title": "The Puppy House",
-      "size": "half",
-      "color": "gray",
       "x": -1454.278920760686,
       "y": 1306.2510900922612,
-      "imageUrl": "unspecified"
+      "size": "half",
+      "color": "gray",
+      "imageUrl": "The_Puppy_House_3b27cbb0fb69.jpeg"
     },
     {
-      "id": "Water_Tanks_C",
-      "title": "Water Tanks C",
-      "size": "regular",
-      "color": "gray",
+      "id": "Water_Tanks_Site_C",
+      "title": "Water Tanks Site C",
       "x": -1277.5812772855872,
       "y": 1050.8480730095641,
+      "size": "regular",
+      "color": "gray",
       "imageUrl": "unspecified"
     },
     {
       "id": "Milking_Stanchion_2",
       "title": "Milking Stanchion 2",
-      "size": "regular",
-      "color": "gray",
       "x": -2726.128969017739,
       "y": 1196.8992529479665,
-      "imageUrl": "unspecified"
+      "size": "regular",
+      "color": "gray",
+      "imageUrl": "Milking_Stanchion_2_87c4ab3fd5a1.jpeg"
     }
   ],
   "edges": [
@@ -1032,20 +1032,20 @@
       "direction": "forward"
     },
     {
-      "id": "The_Puppy_House__Water_Tanks_C",
+      "id": "The_Puppy_House__Water_Tanks_Site_C",
       "source": "The_Puppy_House",
-      "target": "Water_Tanks_C",
+      "target": "Water_Tanks_Site_C",
       "direction": "forward"
     },
     {
-      "id": "Water_Tanks_C__The_Flow_House",
-      "source": "Water_Tanks_C",
+      "id": "Water_Tanks_Site_C__The_Flow_House",
+      "source": "Water_Tanks_Site_C",
       "target": "The_Flow_House",
       "direction": "forward"
     },
     {
-      "id": "Water_Tanks_C__The_Octagon",
-      "source": "Water_Tanks_C",
+      "id": "Water_Tanks_Site_C__The_Octagon",
+      "source": "Water_Tanks_Site_C",
       "target": "The_Octagon",
       "direction": "forward"
     }
@@ -1315,12 +1315,12 @@
       "The Abode has #ethernet #internet and #electricity.",
       "#fix #todos The electrical socket needs to be replaced as it is currently only half functional (one of the two sockets is not working)."
     ],
-    "Water_Tanks_C": [
-      "There are two water tanks between The Octagon and the road to Milking Stanchion 2."
-    ],
     "Milking_Stanchion_2": [
       "Milking Stanchion 2 isn't being used in 2025 as there is only one cow at GYG and they are in the other pasture.",
       "Milking Stanchion 2 was used to milk the cows that lived in the pasture near here."
+    ],
+    "Water_Tanks_Site_C": [
+      "There are two water tanks between The Octagon and the road to Milking Stanchion 2."
     ]
   },
   "mode": "editing",
@@ -1335,6 +1335,6 @@
     "y": -5150,
     "scale": 700,
     "opacity": 33,
-    "visible": true
+    "visible": false
   }
 }
