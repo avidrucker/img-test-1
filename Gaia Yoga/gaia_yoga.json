@@ -3,8 +3,8 @@
     {
       "id": "Milking_Stanchion",
       "title": "Milking Stanchion 1",
-      "x": -1458.808476659579,
-      "y": -4306.425619418471,
+      "x": -1481.424268157419,
+      "y": -4276.2712307546835,
       "size": "half",
       "color": "gray",
       "imageUrl": "Milking_Stanchion_d4f944c3c7c0.jpeg"
@@ -57,7 +57,7 @@
     {
       "id": "Welcome_to_GYG_Sign",
       "title": "Welcome to GYG Sign",
-      "x": 1516.9860755084599,
+      "x": 1437.810366158972,
       "y": -540.8359285379802,
       "size": "double",
       "color": "gray",
@@ -66,8 +66,8 @@
     {
       "id": "Thimbleberry",
       "title": "Thimbleberry",
-      "x": -2117.7902048952546,
-      "y": -4970.98399931995,
+      "x": -3111.5553151702,
+      "y": -4978.69385320845,
       "size": "double",
       "color": "gray",
       "imageUrl": "Thimbleberry_863cb250bfdd.jpeg"
@@ -102,8 +102,8 @@
     {
       "id": "ShivaShakti",
       "title": "Shiva-Shakti Chalet",
-      "x": -1216.8321571357235,
-      "y": -2458.657938934575,
+      "x": -1176.626305584008,
+      "y": -2476.247998988451,
       "size": "regular",
       "color": "gray",
       "imageUrl": "unspecified"
@@ -138,17 +138,17 @@
     {
       "id": "Lava_Access_Point_One",
       "title": "Lava Access Point One",
-      "x": 431.2117188008625,
-      "y": 1150.3561364624607,
-      "size": "double",
+      "x": 372.822762809413,
+      "y": 1112.9864920652267,
+      "size": "regular",
       "color": "gray",
       "imageUrl": "Lava_Access_Point_One_cdeafbcf8de1.jpeg"
     },
     {
       "id": "The_Bee_Hives",
       "title": "The Bee Hives",
-      "x": 715.3058655175047,
-      "y": 588.8217372263745,
+      "x": 722.5036572765491,
+      "y": 405.27804737074234,
       "size": "double",
       "color": "gray",
       "imageUrl": "The_Bee_Hives_362c07b7b477.jpeg"
@@ -165,8 +165,8 @@
     {
       "id": "Powersharing__Laundry_Room",
       "title": "Powersharing / Laundry Room",
-      "x": -821.3729530757994,
-      "y": -714.1176772019351,
+      "x": -840.3950884970941,
+      "y": -706.9843764189494,
       "size": "double",
       "color": "gray",
       "imageUrl": "Powersharing__Laundry_Room_2c10a4879097.jpeg"
@@ -174,8 +174,8 @@
     {
       "id": "The_Kuti",
       "title": "The Kuti",
-      "x": -3023.7804191979785,
-      "y": -4786.853761840916,
+      "x": -3873.8700452344797,
+      "y": -3570.2439008060137,
       "size": "double",
       "color": "gray",
       "imageUrl": "The_Kuti_a19bf3519135.jpeg"
@@ -192,17 +192,17 @@
     {
       "id": "Manta_Ray",
       "title": "Manta Ray",
-      "x": -1168.8933664998397,
-      "y": 289.00391775027657,
-      "size": "half",
+      "x": -1124.4966830669314,
+      "y": 255.7064051755953,
+      "size": "regular",
       "color": "gray",
       "imageUrl": "Manta_Ray_ac87eb509421.jpeg"
     },
     {
       "id": "The_Landing",
       "title": "The Landing",
-      "x": -397.8534730715637,
-      "y": -185.14651871790812,
+      "x": -419.446848348697,
+      "y": -224.7343733926523,
       "size": "double",
       "color": "gray",
       "imageUrl": "The_Landing_90d4b2db21d3.jpeg"
@@ -229,7 +229,7 @@
       "id": "Auau_Heiau",
       "title": "Au'au Hei'au",
       "x": -597.9595973255523,
-      "y": -882.040843867138,
+      "y": -903.4407462160946,
       "size": "regular",
       "color": "gray",
       "imageUrl": "Auau_Heiau_72b72110350d.jpeg"
@@ -237,8 +237,8 @@
     {
       "id": "The_Workshop__Carport",
       "title": "The Workshop / Carport",
-      "x": -1327.2513951782646,
-      "y": -82.49587716504061,
+      "x": -1332.2771266222292,
+      "y": -112.65026582882712,
       "size": "double",
       "color": "gray",
       "imageUrl": "The_Workshop__Carport_1ebb3e63bfca.jpeg"
@@ -246,8 +246,8 @@
     {
       "id": "untitled7",
       "title": "The Drying Area",
-      "x": -890.205216364626,
-      "y": -1004.3706042376921,
+      "x": -999.5824950370709,
+      "y": -999.6150703823685,
       "size": "regular",
       "color": "gray",
       "imageUrl": "untitled7_584f9c4d9823.jpeg"
@@ -264,8 +264,8 @@
     {
       "id": "The_Bedouin",
       "title": "The Bedouin",
-      "x": 411.4166180005201,
-      "y": -320.93111467614096,
+      "x": 292.6530539762876,
+      "y": -400.10682402562907,
       "size": "double",
       "color": "gray",
       "imageUrl": "The_Bedouin_2fedec1ce950.jpeg"
@@ -273,8 +273,8 @@
     {
       "id": "Zappa_Crappa",
       "title": "Zappa Crappa",
-      "x": 161.80304716486017,
-      "y": 92.37321718031416,
+      "x": 32.24279550206103,
+      "y": 56.38425838509227,
       "size": "regular",
       "color": "gray",
       "imageUrl": "Zappa_Crappa_92c29c75ad59.jpeg"
@@ -291,8 +291,8 @@
     {
       "id": "Apotheca_Botanica",
       "title": "Apothe-Crafty",
-      "x": -1386.0488286141667,
-      "y": -404.4928102088252,
+      "x": -1396.1002915020954,
+      "y": -530.1360963079355,
       "size": "regular",
       "color": "gray",
       "imageUrl": "unspecified"
@@ -381,8 +381,8 @@
     {
       "id": "El_Nido_DAguila",
       "title": "El Nido D'Aguila",
-      "x": 1057.9674005476463,
-      "y": -744.9461740207443,
+      "x": 1032.775129390991,
+      "y": -788.1329245750107,
       "size": "double",
       "color": "gray",
       "imageUrl": "unspecified"
@@ -417,8 +417,8 @@
     {
       "id": "Hale_Moo",
       "title": "Hale Mo'o",
-      "x": -1995.1118232590443,
-      "y": -2811.0346904332005,
+      "x": -1980.034628927151,
+      "y": -2871.3434677607734,
       "size": "double",
       "color": "gray",
       "imageUrl": "Kanas_Teak_House_51bcd334bd84.jpeg"
@@ -426,8 +426,8 @@
     {
       "id": "The_Nursery",
       "title": "The Nursery",
-      "x": -1865.7871905473942,
-      "y": -3273.6850240532003,
+      "x": -1893.4287134891986,
+      "y": -3502.355804753581,
       "size": "double",
       "color": "gray",
       "imageUrl": "The_Nursery_08e7345662bd.jpeg"
@@ -435,9 +435,9 @@
     {
       "id": "The_Garden",
       "title": "The Garden",
-      "x": -1909.8539224640028,
-      "y": -2420.6081678755554,
-      "size": "double",
+      "x": -1889.7509966881455,
+      "y": -2533.6871253647546,
+      "size": "regular",
       "color": "gray",
       "imageUrl": "The_Garden_5ba17bcc0532.jpeg"
     },
@@ -1048,6 +1048,18 @@
       "source": "Water_Tanks_Site_C",
       "target": "The_Octagon",
       "direction": "forward"
+    },
+    {
+      "id": "The_Bedouin__The_Landing",
+      "source": "The_Bedouin",
+      "target": "The_Landing",
+      "direction": "forward"
+    },
+    {
+      "id": "The_Landing__Powersharing__Laundry_Room",
+      "source": "The_Landing",
+      "target": "Powersharing__Laundry_Room",
+      "direction": "forward"
     }
   ],
   "notes": {
@@ -1331,9 +1343,9 @@
   "bgImage": {
     "included": true,
     "imageUrl": "underlay.webp",
-    "x": -4450,
+    "x": -4500,
     "y": -6650,
-    "scale": 265,
+    "scale": 460,
     "opacity": 33,
     "visible": true
   }
