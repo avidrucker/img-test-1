@@ -7,7 +7,7 @@
       "y": -4306.425619418471,
       "size": "half",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "Milking_Stanchion_d4f944c3c7c0.jpeg"
     },
     {
       "id": "Daisy",
@@ -34,7 +34,7 @@
       "y": -1048.7938586457274,
       "size": "double",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "Old_Bamboo_Nursery_1b181ef5b425.jpeg"
     },
     {
       "id": "Upper_Pumphouse",
@@ -84,8 +84,8 @@
     {
       "id": "The_Flow_House",
       "title": "The Flow House",
-      "x": -486.37776607859246,
-      "y": 1076.3813622830137,
+      "x": -462.81854316221893,
+      "y": 1029.2629164502669,
       "size": "double",
       "color": "gray",
       "imageUrl": "The_Flow_House_f0866d14d12e.jpeg"
@@ -115,7 +115,7 @@
       "y": 160.72457527966088,
       "size": "half",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "Coco_Corral_92bba8bd0d46.jpeg"
     },
     {
       "id": "Water_Tank_Site_A",
@@ -124,7 +124,7 @@
       "y": -3614.411998544409,
       "size": "regular",
       "color": "gray",
-      "imageUrl": "unspecified"
+      "imageUrl": "Water_Tank_Site_A_cee472c372c0.jpeg"
     },
     {
       "id": "Water_Tanks_Site_B",
@@ -138,8 +138,8 @@
     {
       "id": "Lava_Access_Point_One",
       "title": "Lava Access Point One",
-      "x": 460.6607474463299,
-      "y": 1185.694970837021,
+      "x": 431.2117188008625,
+      "y": 1150.3561364624607,
       "size": "double",
       "color": "gray",
       "imageUrl": "Lava_Access_Point_One_cdeafbcf8de1.jpeg"
@@ -160,7 +160,7 @@
       "y": 280.1235169104383,
       "size": "half",
       "color": "gray",
-      "imageUrl": "Truck_Garage_89c3f47c426c.jpeg"
+      "imageUrl": "Truck_Garage_2bc4c29f2ce0.jpeg"
     },
     {
       "id": "Powersharing__Laundry_Room",
@@ -534,8 +534,8 @@
     {
       "id": "The_Dog_House",
       "title": "The Dog House",
-      "x": -1159.6587750028245,
-      "y": 2165.1437184033143,
+      "x": -1012.4136317754899,
+      "y": 2200.4825527778744,
       "size": "regular",
       "color": "gray",
       "imageUrl": "The_Dog_House_6eef131158b0.jpeg"
@@ -543,8 +543,8 @@
     {
       "id": "The_Puppy_House",
       "title": "The Puppy House",
-      "x": -1454.278920760686,
-      "y": 1306.2510900922612,
+      "x": -1507.2871723225262,
+      "y": 1241.4632270722338,
       "size": "half",
       "color": "gray",
       "imageUrl": "The_Puppy_House_3b27cbb0fb69.jpeg"
@@ -561,8 +561,8 @@
     {
       "id": "Milking_Stanchion_2",
       "title": "Milking Stanchion 2",
-      "x": -2726.128969017739,
-      "y": 1196.8992529479665,
+      "x": -2626.002271623152,
+      "y": 1249.907504509807,
       "size": "regular",
       "color": "gray",
       "imageUrl": "Milking_Stanchion_2_87c4ab3fd5a1.jpeg"
@@ -1331,10 +1331,10 @@
   "bgImage": {
     "included": true,
     "imageUrl": "underlay.webp",
-    "x": -4550,
-    "y": -5150,
-    "scale": 700,
+    "x": -4450,
+    "y": -6650,
+    "scale": 265,
     "opacity": 33,
-    "visible": false
+    "visible": true
   }
 }
